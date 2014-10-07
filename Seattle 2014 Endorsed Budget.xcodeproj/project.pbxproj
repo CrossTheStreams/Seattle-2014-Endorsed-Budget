@@ -14,6 +14,7 @@
 		F9E1CDB819E3BB9300F52E51 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9E1CDB719E3BB9300F52E51 /* Images.xcassets */; };
 		F9E1CDBB19E3BB9300F52E51 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F9E1CDB919E3BB9300F52E51 /* LaunchScreen.xib */; };
 		F9E1CDC719E3BB9400F52E51 /* Seattle_2014_Endorsed_BudgetTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F9E1CDC619E3BB9400F52E51 /* Seattle_2014_Endorsed_BudgetTests.m */; };
+		F9E1CDD219E3C02A00F52E51 /* RequestJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = F9E1CDD119E3C02A00F52E51 /* RequestJSON.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		F9E1CDC019E3BB9400F52E51 /* Seattle 2014 Endorsed BudgetTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Seattle 2014 Endorsed BudgetTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9E1CDC519E3BB9400F52E51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F9E1CDC619E3BB9400F52E51 /* Seattle_2014_Endorsed_BudgetTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Seattle_2014_Endorsed_BudgetTests.m; sourceTree = "<group>"; };
+		F9E1CDD019E3C02A00F52E51 /* RequestJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RequestJSON.h; sourceTree = "<group>"; };
+		F9E1CDD119E3C02A00F52E51 /* RequestJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RequestJSON.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,8 @@
 				F9E1CDAF19E3BB9300F52E51 /* AppDelegate.m */,
 				F9E1CDB119E3BB9300F52E51 /* ViewController.h */,
 				F9E1CDB219E3BB9300F52E51 /* ViewController.m */,
+				F9E1CDD019E3C02A00F52E51 /* RequestJSON.h */,
+				F9E1CDD119E3C02A00F52E51 /* RequestJSON.m */,
 				F9E1CDB419E3BB9300F52E51 /* Main.storyboard */,
 				F9E1CDB719E3BB9300F52E51 /* Images.xcassets */,
 				F9E1CDB919E3BB9300F52E51 /* LaunchScreen.xib */,
@@ -222,6 +227,7 @@
 				F9E1CDB319E3BB9300F52E51 /* ViewController.m in Sources */,
 				F9E1CDB019E3BB9300F52E51 /* AppDelegate.m in Sources */,
 				F9E1CDAD19E3BB9300F52E51 /* main.m in Sources */,
+				F9E1CDD219E3C02A00F52E51 /* RequestJSON.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
