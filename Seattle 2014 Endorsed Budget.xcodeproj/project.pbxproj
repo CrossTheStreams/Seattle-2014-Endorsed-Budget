@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		D86F12BF468F44388A9C7F5B /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 941C040099B344AEB3EE2E0C /* libPods.a */; };
 		F94BA58F19E4C7F200AC5F92 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F94BA58E19E4C7F200AC5F92 /* QuartzCore.framework */; };
+		F9DB276619E5CCC7007DC63C /* BudgetDataMapper.m in Sources */ = {isa = PBXBuildFile; fileRef = F9DB276519E5CCC7007DC63C /* BudgetDataMapper.m */; };
 		F9E1CDAD19E3BB9300F52E51 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F9E1CDAC19E3BB9300F52E51 /* main.m */; };
 		F9E1CDB019E3BB9300F52E51 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F9E1CDAF19E3BB9300F52E51 /* AppDelegate.m */; };
 		F9E1CDB319E3BB9300F52E51 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F9E1CDB219E3BB9300F52E51 /* ViewController.m */; };
@@ -33,6 +34,8 @@
 		39BD187CAB544B7A84A0F461 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 		941C040099B344AEB3EE2E0C /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		F94BA58E19E4C7F200AC5F92 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		F9DB276419E5CCC7007DC63C /* BudgetDataMapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BudgetDataMapper.h; sourceTree = "<group>"; };
+		F9DB276519E5CCC7007DC63C /* BudgetDataMapper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BudgetDataMapper.m; sourceTree = "<group>"; };
 		F9E1CDA719E3BB9300F52E51 /* Seattle 2014 Endorsed Budget.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Seattle 2014 Endorsed Budget.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9E1CDAB19E3BB9300F52E51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F9E1CDAC19E3BB9300F52E51 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -112,6 +115,8 @@
 				F9E1CDB719E3BB9300F52E51 /* Images.xcassets */,
 				F9E1CDB919E3BB9300F52E51 /* LaunchScreen.xib */,
 				F9E1CDAA19E3BB9300F52E51 /* Supporting Files */,
+				F9DB276419E5CCC7007DC63C /* BudgetDataMapper.h */,
+				F9DB276519E5CCC7007DC63C /* BudgetDataMapper.m */,
 			);
 			path = "Seattle 2014 Endorsed Budget";
 			sourceTree = "<group>";
@@ -280,6 +285,7 @@
 				F9E1CDB319E3BB9300F52E51 /* ViewController.m in Sources */,
 				F9E1CDB019E3BB9300F52E51 /* AppDelegate.m in Sources */,
 				F9E1CDAD19E3BB9300F52E51 /* main.m in Sources */,
+				F9DB276619E5CCC7007DC63C /* BudgetDataMapper.m in Sources */,
 				F9E1CDD219E3C02A00F52E51 /* JSONRequestHandler.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

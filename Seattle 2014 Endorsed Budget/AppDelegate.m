@@ -9,7 +9,7 @@
 #import "AppDelegate.h"
 #import "JSONRequestHandler.h"
 #import "ViewController.h"
-
+# import "BudgetDataMapper.h"
 @interface AppDelegate ()
 
 @property (strong, nonatomic) UIStoryboard* storyboard;
@@ -22,9 +22,12 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     
-//    
-//    JSONRequestHandler *jsonRequestHandler = [[JSONRequestHandler alloc] init];
-//    [jsonRequestHandler getRequestForJSON];
+    JSONRequestHandler *jsonRequestHandler = [[JSONRequestHandler alloc] init];
+    [jsonRequestHandler getRequestForJSON];
+    
+    BudgetDataMapper *budgetDataMapper = [[BudgetDataMapper alloc] init];
+    [budgetDataMapper setData: jsonRequestHandler.json];
+    
     self.storyboard = [UIStoryboard storyboardWithName:@"Main" bundle: nil];
     ViewController *initView = [self.storyboard instantiateViewControllerWithIdentifier:@"ViewController"];
     UINavigationController *initNav = [[UINavigationController alloc] initWithRootViewController:initView];

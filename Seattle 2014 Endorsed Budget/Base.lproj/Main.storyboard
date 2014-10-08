@@ -25,9 +25,6 @@
                                 <variation key="heightClass=regular-widthClass=regular" ambiguous="YES" misplaced="YES">
                                     <rect key="frame" x="100" y="73" width="600" height="600"/>
                                 </variation>
-                                <connections>
-                                    <outletCollection property="gestureRecognizers" destination="EMI-dT-kwj" appends="YES" id="mbu-oN-lbf"/>
-                                </connections>
                             </view>
                         </subviews>
                         <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
@@ -59,11 +56,6 @@
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
-                <tapGestureRecognizer id="EMI-dT-kwj">
-                    <connections>
-                        <action selector="tappedPieChart:" destination="BYZ-38-t0r" id="0gj-x7-6TF"/>
-                    </connections>
-                </tapGestureRecognizer>
             </objects>
             <point key="canvasLocation" x="136" y="304"/>
         </scene>
