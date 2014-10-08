@@ -7,7 +7,7 @@
 //
 
 #import "AppDelegate.h"
-#import "RequestJSON.h"
+#import "JSONRequestHandler.h"
 
 @interface AppDelegate ()
 
@@ -19,8 +19,9 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     
-    RequestJSON *jsonRequestHandler = [[RequestJSON alloc] init];
-    [jsonRequestHandler getRequestForJSON];
+//    
+//    JSONRequestHandler *jsonRequestHandler = [[JSONRequestHandler alloc] init];
+//    [jsonRequestHandler getRequestForJSON];
     
     return YES;
 }

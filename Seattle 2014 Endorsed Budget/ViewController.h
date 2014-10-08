@@ -7,9 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "../Pods/XYPieChart/XYPieChart/XYPieChart.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <XYPieChartDelegate, XYPieChartDataSource>
 
+@property NSMutableArray *slices;
+@property NSArray *sliceColors;
 
 @end
 

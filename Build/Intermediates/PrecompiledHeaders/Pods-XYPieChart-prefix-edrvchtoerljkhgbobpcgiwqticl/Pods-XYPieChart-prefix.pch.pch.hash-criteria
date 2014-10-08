@@ -1,0 +1,27 @@
+-x
+objective-c
+-arch
+arm64
+-std=gnu99
+-fmodules
+-fmodules-cache-path=/Users/arhautau/Library/Developer/Xcode/DerivedData/ModuleCache
+-fpascal-strings
+-O0
+-DDEBUG=1
+-DCOCOAPODS=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.0.sdk
+-g
+-miphoneos-version-min=8.0
+-iquote
+-iquote
+-I/Users/arhautau/project/Seattle 2014 Endorsed Budget/Build/Products/Debug-iphoneos/include
+-I/Users/arhautau/project/Seattle 2014 Endorsed Budget/Pods/BuildHeaders
+-I/Users/arhautau/project/Seattle 2014 Endorsed Budget/Pods/BuildHeaders/XYPieChart
+-I/Users/arhautau/project/Seattle 2014 Endorsed Budget/Pods/Headers
+-I/Users/arhautau/project/Seattle 2014 Endorsed Budget/Pods/Headers/XYPieChart
+-F/Users/arhautau/project/Seattle 2014 Endorsed Budget/Build/Products/Debug-iphoneos
+arm64-apple-darwin13.4.0
+"4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.51)"
+SDK_PRODUCT_BUILD_VERSION=12A365
+12A365

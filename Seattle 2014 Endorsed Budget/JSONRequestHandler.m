@@ -7,9 +7,9 @@
 //
 
 #import "AppDelegate.h"
-#import "RequestJSON.h"
+#import "JSONRequestHandler.h"
 
-@implementation RequestJSON {
+@implementation JSONRequestHandler {
     NSMutableData *receivedData;
     NSURLConnection *theConnection;
 }
