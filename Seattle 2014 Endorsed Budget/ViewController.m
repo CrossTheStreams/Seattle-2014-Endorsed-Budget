@@ -22,6 +22,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    self.title = @"Seattle 2014 Endorsed Budget";
     
     self.slices = [NSMutableArray arrayWithCapacity:10];
     
@@ -42,16 +43,18 @@
 
     [self.pieChart setDelegate:self];
     [self.pieChart setDataSource:self];
+    
     [self.pieChart setStartPieAngle:M_PI_2];	//optional
     [self.pieChart setAnimationSpeed:1.0];	//optional
     [self.pieChart setLabelFont:[UIFont fontWithName:@"Helvetica" size:24]];	//optional
     [self.pieChart setLabelColor:[UIColor blackColor]];	//optional, defaults to white
 //    [self.pieChart setLabelShadowColor:[UIColor blackColor]];	//optional, defaults to none (nil)
-    [self.pieChart setLabelRadius:100];	//optional
-    [self.pieChart setPieRadius: self.view.frame.size.width/2.2];
+    CGFloat radius = (self.view.frame.size.width/2 - 20);
+    [self.pieChart setLabelRadius:(radius/1.5)];	//optional
+    [self.pieChart setPieRadius: radius];
     [self.pieChart setShowPercentage:YES];	//optional
     [self.pieChart setPieBackgroundColor:[UIColor colorWithWhite:0.95 alpha:1]];	//optional
-    [self.pieChart setPieCenter:CGPointMake(190, 240)];	//optional
+    [self.pieChart setPieCenter:CGPointMake(self.view.frame.size.width/2, 240)];	//optional
     
 
     [self.view bringSubviewToFront:self.pieChart];

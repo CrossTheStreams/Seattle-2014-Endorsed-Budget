@@ -8,8 +8,11 @@
 
 #import "AppDelegate.h"
 #import "JSONRequestHandler.h"
+#import "ViewController.h"
 
 @interface AppDelegate ()
+
+@property (strong, nonatomic) UIStoryboard* storyboard;
 
 @end
 
@@ -22,6 +25,10 @@
 //    
 //    JSONRequestHandler *jsonRequestHandler = [[JSONRequestHandler alloc] init];
 //    [jsonRequestHandler getRequestForJSON];
+    self.storyboard = [UIStoryboard storyboardWithName:@"Main" bundle: nil];
+    ViewController *initView = [self.storyboard instantiateViewControllerWithIdentifier:@"ViewController"];
+    UINavigationController *initNav = [[UINavigationController alloc] initWithRootViewController:initView];
+    self.window.rootViewController = initNav;
     
     return YES;
 }
