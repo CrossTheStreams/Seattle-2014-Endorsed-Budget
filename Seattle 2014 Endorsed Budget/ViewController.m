@@ -30,23 +30,40 @@
 
 
 -(void) createPieChart {
-    self.slices = [NSMutableArray arrayWithCapacity:10];
+    self.slices = [[NSMutableArray alloc] init];
     
-    for(int i = 0; i < 5; i ++)
-    {
-        NSNumber *one = [NSNumber numberWithInt:rand()%60+20];
-        [self.slices addObject:one];
+    NSArray *pieChartData = [self pieChartData];
+    
+    
+    NSMutableArray *mutableColorArray = [[NSMutableArray alloc] init];
+    
+    NSArray *colorArray = [NSArray arrayWithObjects:
+                           [UIColor colorWithRed:246/255.0 green:155/255.0 blue:0/255.0 alpha:1],
+                           [UIColor colorWithRed:129/255.0 green:195/255.0 blue:29/255.0 alpha:1],
+                           [UIColor colorWithRed:62/255.0 green:173/255.0 blue:219/255.0 alpha:1],
+                           [UIColor colorWithRed:229/255.0 green:66/255.0 blue:115/255.0 alpha:1],
+                           [UIColor colorWithRed:148/255.0 green:141/255.0 blue:139/255.0 alpha:1],nil];
+    
+//    for(int i = 0; i < 5; i ++)
+//    {
+//        NSNumber *one = [NSNumber numberWithInt:rand()%60+20];
+//        [self.slices addObject:one];
+//        [mutableColorArray addObject: colorArray[i % [colorArray count]]];
+//        self.sliceColors = [NSArray arrayWithArray: mutableColorArray];
+//    }
+
+
+    for (int i = 0; i < [pieChartData count]; i ++) {
+        NSDictionary *pieSlice = pieChartData[i];
+        NSNumber *value = [NSNumber numberWithInt:([pieSlice[@"value"] intValue] * 0.01)];
+//        NSLog([value stringValue]);
+        [self.slices addObject: value];
+        [mutableColorArray addObject: colorArray[i % [colorArray count]]];
+        self.sliceColors = [NSArray arrayWithArray: mutableColorArray];
     }
+
     // Do any additional setup after loading the view, typically from a nib.
-    
-    
-    self.sliceColors = [NSArray arrayWithObjects:
-                        [UIColor colorWithRed:246/255.0 green:155/255.0 blue:0/255.0 alpha:1],
-                        [UIColor colorWithRed:129/255.0 green:195/255.0 blue:29/255.0 alpha:1],
-                        [UIColor colorWithRed:62/255.0 green:173/255.0 blue:219/255.0 alpha:1],
-                        [UIColor colorWithRed:229/255.0 green:66/255.0 blue:115/255.0 alpha:1],
-                        [UIColor colorWithRed:148/255.0 green:141/255.0 blue:139/255.0 alpha:1],nil];
-    
+
     [self.pieChart setDelegate:self];
     [self.pieChart setDataSource:self];
     
@@ -56,7 +73,7 @@
     [self.pieChart setLabelColor:[UIColor blackColor]];	//optional, defaults to white
     //    [self.pieChart setLabelShadowColor:[UIColor blackColor]];	//optional, defaults to none (nil)
     CGFloat radius = (self.view.frame.size.width/2 - 20);
-    [self.pieChart setLabelRadius:(radius/1.5)];	//optional
+    [self.pieChart setLabelRadius:(radius/1.6)];	//optional
     [self.pieChart setPieRadius: radius];
     [self.pieChart setShowPercentage:YES];	//optional
     [self.pieChart setPieBackgroundColor:[UIColor colorWithWhite:0.95 alpha:1]];	//optional
@@ -67,10 +84,13 @@
     [self.pieChart reloadData];
 }
 
+-(NSArray*) pieChartData {
+    return [[self burdgetDataMapper] pieChartData];
+}
 
 // XYPiechart delegate methods
 - (NSUInteger)numberOfSlicesInPieChart:(XYPieChart *)pieChart {
-    return 5;
+    return [[self pieChartData] count];
 }
 - (CGFloat)pieChart:(XYPieChart *)pieChart valueForSliceAtIndex:(NSUInteger)index {
     NSNumber *slice = self.slices[index];
@@ -131,12 +151,14 @@
     receivedData = [NSMutableData dataWithCapacity: 0];
     [receivedData appendData:data];
     
-    NSDictionary * requestJSON = [NSJSONSerialization JSONObjectWithData:receivedData
+    NSArray* requestJSON = [NSJSONSerialization JSONObjectWithData:receivedData
                                                                  options:kNilOptions
                                                                 error:nil];
     
     BudgetDataMapper *budgetDataMapper = [[BudgetDataMapper alloc] init];
-    [budgetDataMapper setData: requestJSON];
+    [budgetDataMapper setJsonData: requestJSON];
+    [budgetDataMapper mapDataByDepartment];
+    
     [self setBurdgetDataMapper: budgetDataMapper];
     
     [self hideHUDWithDelay];

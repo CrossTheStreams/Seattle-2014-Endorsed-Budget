@@ -10,6 +10,10 @@
 
 @interface BudgetDataMapper : NSObject
 
-@property (strong, nonatomic) NSDictionary *data;
+-(void) mapDataByDepartment;
+
+@property (strong, nonatomic) NSArray *jsonData;
+// An array of NSDictionaries that represent "slices" in the piechart
+@property (strong, nonatomic) NSArray *pieChartData;
 
 @end

@@ -157,6 +157,8 @@
 			children = (
 				F9E1CDAE19E3BB9300F52E51 /* AppDelegate.h */,
 				F9E1CDAF19E3BB9300F52E51 /* AppDelegate.m */,
+				F9DB276419E5CCC7007DC63C /* BudgetDataMapper.h */,
+				F9DB276519E5CCC7007DC63C /* BudgetDataMapper.m */,
 				F9E1CDB119E3BB9300F52E51 /* ViewController.h */,
 				F9E1CDB219E3BB9300F52E51 /* ViewController.m */,
 				F9E1CDD019E3C02A00F52E51 /* JSONRequestHandler.h */,
@@ -165,8 +167,6 @@
 				F9E1CDB719E3BB9300F52E51 /* Images.xcassets */,
 				F9E1CDB919E3BB9300F52E51 /* LaunchScreen.xib */,
 				F9E1CDAA19E3BB9300F52E51 /* Supporting Files */,
-				F9DB276419E5CCC7007DC63C /* BudgetDataMapper.h */,
-				F9DB276519E5CCC7007DC63C /* BudgetDataMapper.m */,
 			);
 			path = "Seattle 2014 Endorsed Budget";
 			sourceTree = "<group>";
