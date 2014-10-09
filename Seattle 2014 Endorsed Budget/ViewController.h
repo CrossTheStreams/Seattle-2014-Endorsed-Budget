@@ -8,11 +8,16 @@
 
 #import <UIKit/UIKit.h>
 #import "../Pods/XYPieChart/XYPieChart/XYPieChart.h"
+#import "../Pods/MBProgressHUD/MBProgressHUD.h"
+#import "BudgetDataMapper.h"
 
-@interface ViewController : UIViewController <XYPieChartDelegate, XYPieChartDataSource>
+@interface ViewController : UIViewController <XYPieChartDelegate, XYPieChartDataSource, NSURLConnectionDataDelegate, NSURLConnectionDelegate>
 
 @property NSMutableArray *slices;
 @property NSArray *sliceColors;
+@property NSDictionary *json;
+@property BudgetDataMapper *burdgetDataMapper;
+
 
 @end
 

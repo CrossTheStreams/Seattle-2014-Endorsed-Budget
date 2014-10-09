@@ -9,6 +9,7 @@
 #import "ViewController.h"
 #import <QuartzCore/QuartzCore.h>
 
+
 @interface ViewController ()
 
 @property (strong, nonatomic) IBOutlet XYPieChart *pieChart;
@@ -16,14 +17,19 @@
 
 @end
 
-@implementation ViewController
+@implementation ViewController {
+    NSMutableData *receivedData;
+}
 
 
-
-- (void)viewDidLoad {
+- (void) viewDidLoad {
     [super viewDidLoad];
+    [MBProgressHUD showHUDAddedTo:self.view animated:YES];
     self.title = @"Seattle 2014 Endorsed Budget";
-    
+}
+
+
+-(void) createPieChart {
     self.slices = [NSMutableArray arrayWithCapacity:10];
     
     for(int i = 0; i < 5; i ++)
@@ -32,23 +38,23 @@
         [self.slices addObject:one];
     }
     // Do any additional setup after loading the view, typically from a nib.
-
+    
     
     self.sliceColors = [NSArray arrayWithObjects:
-                       [UIColor colorWithRed:246/255.0 green:155/255.0 blue:0/255.0 alpha:1],
-                       [UIColor colorWithRed:129/255.0 green:195/255.0 blue:29/255.0 alpha:1],
-                       [UIColor colorWithRed:62/255.0 green:173/255.0 blue:219/255.0 alpha:1],
-                       [UIColor colorWithRed:229/255.0 green:66/255.0 blue:115/255.0 alpha:1],
-                       [UIColor colorWithRed:148/255.0 green:141/255.0 blue:139/255.0 alpha:1],nil];
-
+                        [UIColor colorWithRed:246/255.0 green:155/255.0 blue:0/255.0 alpha:1],
+                        [UIColor colorWithRed:129/255.0 green:195/255.0 blue:29/255.0 alpha:1],
+                        [UIColor colorWithRed:62/255.0 green:173/255.0 blue:219/255.0 alpha:1],
+                        [UIColor colorWithRed:229/255.0 green:66/255.0 blue:115/255.0 alpha:1],
+                        [UIColor colorWithRed:148/255.0 green:141/255.0 blue:139/255.0 alpha:1],nil];
+    
     [self.pieChart setDelegate:self];
     [self.pieChart setDataSource:self];
     
     [self.pieChart setStartPieAngle:M_PI_2];	//optional
-    [self.pieChart setAnimationSpeed:1.0];	//optional
+    [self.pieChart setAnimationSpeed:2.0];	//optional
     [self.pieChart setLabelFont:[UIFont fontWithName:@"Helvetica" size:24]];	//optional
     [self.pieChart setLabelColor:[UIColor blackColor]];	//optional, defaults to white
-//    [self.pieChart setLabelShadowColor:[UIColor blackColor]];	//optional, defaults to none (nil)
+    //    [self.pieChart setLabelShadowColor:[UIColor blackColor]];	//optional, defaults to none (nil)
     CGFloat radius = (self.view.frame.size.width/2 - 20);
     [self.pieChart setLabelRadius:(radius/1.5)];	//optional
     [self.pieChart setPieRadius: radius];
@@ -56,11 +62,13 @@
     [self.pieChart setPieBackgroundColor:[UIColor colorWithWhite:0.95 alpha:1]];	//optional
     [self.pieChart setPieCenter:CGPointMake(self.view.frame.size.width/2, 240)];	//optional
     
-
+    
     [self.view bringSubviewToFront:self.pieChart];
     [self.pieChart reloadData];
 }
 
+
+// XYPiechart delegate methods
 - (NSUInteger)numberOfSlicesInPieChart:(XYPieChart *)pieChart {
     return 5;
 }
@@ -73,6 +81,8 @@
     return self.sliceColors[index];
 }
 //- (NSString *)pieChart:(XYPieChart *)pieChart textForSliceAtIndex:(NSUInteger)index;	//optional
+
+
 
 #pragma mark - XYPieChart Delegate
 - (void)pieChart:(XYPieChart *)pieChart willSelectSliceAtIndex:(NSUInteger)index
@@ -97,6 +107,47 @@
 //- (NSString *)pieChart:(XYPieChart *)pieChart textForSliceAtIndex:(NSUInteger)index {
 //
 //}
+
+-(void) hideHUDWithDelay {
+    double delayInSecondsForHideHUD = 1.0;
+    dispatch_time_t popTimeForHUD = dispatch_time(DISPATCH_TIME_NOW, (int64_t)(delayInSecondsForHideHUD * NSEC_PER_SEC));
+    dispatch_after(popTimeForHUD, dispatch_get_main_queue(), ^(void){
+        [MBProgressHUD hideAllHUDsForView:self.view animated:YES];
+    });
+}
+
+-(void) loadPieChartWithDelay {
+    double delayInSecondsForShowPieChart = 1.30;
+    dispatch_time_t popTimeForPieChart = dispatch_time(DISPATCH_TIME_NOW, (int64_t)(delayInSecondsForShowPieChart * NSEC_PER_SEC));
+    dispatch_after(popTimeForPieChart, dispatch_get_main_queue(), ^(void) {
+        [self createPieChart];
+    });
+}
+
+
+
+-(void) connection:(NSURLConnection *)connection didReceiveData:(NSData *)data {
+    
+    receivedData = [NSMutableData dataWithCapacity: 0];
+    [receivedData appendData:data];
+    
+    NSDictionary * requestJSON = [NSJSONSerialization JSONObjectWithData:receivedData
+                                                                 options:kNilOptions
+                                                                error:nil];
+    
+    BudgetDataMapper *budgetDataMapper = [[BudgetDataMapper alloc] init];
+    [budgetDataMapper setData: requestJSON];
+    [self setBurdgetDataMapper: budgetDataMapper];
+    
+    [self hideHUDWithDelay];
+    [self loadPieChartWithDelay];
+
+}
+
+-(void) connectionDidFinishLoading:(NSURLConnection *)connection {
+    
+    
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];

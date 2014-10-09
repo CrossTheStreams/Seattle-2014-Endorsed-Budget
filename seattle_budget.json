@@ -1,0 +1,2161 @@
+[ {
+  "bcl_code" : "V1CIV",
+  "bcl_purpose" : "The purpose of the Civil Service Commissions Budget Control Level is to provide administrative support to the Public Safety Civil Service Commission (PSCSC) and the Civil Service Commission (CSC). The PSCSC provides sworn police and uniformed fire employees with a quasi-judicial process for hearings on appeals concerning disciplinary actions, examination and testing, and other related issues. The CSC directs the civil service system for all other employees of the City. Itinvestigates allegations of political patronage so the City's hiring process conforms to the merit system set forth in the City Charter. These commissions will at times improve the City personnel system by developing legislation for the Mayor and City Council.",
+  "department" : "Civil Service Commissions",
+  "_2014_expenditure_allowance" : "385887",
+  "fund" : "General Subfund",
+  "bcl_name" : "Civil Service Commissions"
+}
+, {
+  "bcl_code" : "I3100",
+  "bcl_purpose" : "The purpose of the Director's Office Budget Control Level is to provide executive leadership, communications, and operational support for the entire department. ",
+  "department" : "Department of Neighborhoods",
+  "_2014_expenditure_allowance" : "485705",
+  "fund" : "General Subfund",
+  "bcl_name" : "Director's Office"
+}
+, {
+  "bcl_code" : "I3200",
+  "bcl_purpose" : "The purpose of the Internal Operations Budget Control Level is to provide financial, human resources, facility, administrative, and information technology services to the Department's employees to serve customers efficiently and effectively.",
+  "department" : "Department of Neighborhoods",
+  "_2014_expenditure_allowance" : "1426675",
+  "fund" : "General Subfund",
+  "bcl_name" : "Internal Operations"
+}
+, {
+  "bcl_code" : "I3300",
+  "bcl_purpose" : "The purpose of the Community Building Budget Control Level is to deliver technical assistance, support services, and programs in neighborhoods to strengthen local communities, engage residents in neighborhood improvement, leverage resources, and complete neighborhood-initiated projects.",
+  "department" : "Department of Neighborhoods",
+  "_2014_expenditure_allowance" : "3458080",
+  "fund" : "General Subfund",
+  "bcl_name" : "Community Building"
+}
+, {
+  "bcl_code" : "I4100",
+  "bcl_purpose" : "The purpose of the Youth Violence Prevention Budget Control Level is to reduce juvenile violent crimes.",
+  "department" : "Department of Neighborhoods",
+  "_2014_expenditure_allowance" : "5631045",
+  "fund" : "General Subfund",
+  "bcl_name" : "Youth Violence Prevention"
+}
+, {
+  "bcl_code" : "V1T00",
+  "bcl_purpose" : "The purpose of the Ethics and Elections Budget Control Level is threefold: 1) to audit, investigate, and conduct hearings regarding non-compliance with, or violations of, Commission-administered ordinances; 2) to advise all City officials and employees of their obligations under Commission-administered ordinances; and 3) to publish and broadly distribute information about the City's ethical standards, City election campaigns, campaign financial disclosure statements, and lobbyist disclosure statements.",
+  "department" : "Ethics and Elections Commission",
+  "_2014_expenditure_allowance" : "782800",
+  "fund" : "General Subfund",
+  "bcl_name" : "Ethics and Elections"
+}
+, {
+  "bcl_code" : "CZ000",
+  "bcl_purpose" : "The purpose of the City Budget Office Budget Control Level is to develop and monitor the budget, carrying out budget-related functions, oversee financial policies and plans, and provide financial and other strategic analysis.",
+  "department" : "Executive",
+  "_2014_expenditure_allowance" : "4206264",
+  "fund" : "General Subfund",
+  "bcl_name" : "City Budget Office"
+}
+, {
+  "bcl_code" : "VJ100",
+  "bcl_purpose" : "The purpose of the Jail Services Budget Control Level is to provide for the booking, housing, transporting, and guarding of City inmates. The jail population, for which the City pays, are adults charged with or convicted of misdemeanor crimes alleged to have been committed within the Seattle city limits.",
+  "department" : "Executive",
+  "_2014_expenditure_allowance" : "16702137",
+  "fund" : "General Subfund",
+  "bcl_name" : "Jail Services"
+}
+, {
+  "bcl_code" : "VJ500",
+  "bcl_purpose" : "The purpose of the Indigent Defense Services Budget Control Level is to secure legal defense services, as required by state law, for indigent people facing criminal charges in Seattle Municipal Court.",
+  "department" : "Executive",
+  "_2014_expenditure_allowance" : "6533471",
+  "fund" : "General Subfund",
+  "bcl_name" : "Indigent Defense Services"
+}
+, {
+  "bcl_code" : "X1000",
+  "bcl_purpose" : "The purpose of the Office of Sustainability and Environment Budget Control Level is to develop, communicate, implement, and lead the City's Climate Protection and Green Seattle initiatives.",
+  "department" : "Executive",
+  "_2014_expenditure_allowance" : "2092173",
+  "fund" : "General Subfund",
+  "bcl_name" : "Office of Sustainability and Environment"
+}
+, {
+  "bcl_code" : "X1A00",
+  "bcl_purpose" : "The purpose of the Mayor's Office Budget Control Level is to provide honest, accessible leadership to residents, employees, and regional neighbors of the City of Seattle that is clear and responsible in an environment that encourages ideas, civic discourse, and inclusion for the entirety of the City's diverse population, creating an even better place to live, learn, work, and play.",
+  "department" : "Executive",
+  "_2014_expenditure_allowance" : "3758088",
+  "fund" : "General Subfund",
+  "bcl_name" : "Office of the Mayor"
+}
+, {
+  "bcl_code" : "X1D00",
+  "bcl_purpose" : "The purpose of the Office of Economic Development Budget Control Level is to provide vital services to individual businesses and economic development leadership to support a strong local economy, thriving neighborhood business districts, and broadly-shared prosperity.",
+  "department" : "Executive",
+  "_2014_expenditure_allowance" : "6230049",
+  "fund" : "General Subfund",
+  "bcl_name" : "Office of Economic Development"
+}
+, {
+  "bcl_code" : "X1G00",
+  "bcl_purpose" : "The purpose of the Intergovernmental Relations Budget Control Level is to promote and protect the City's federal, state, regional, and international interests by providing strategic advice, representation, and advocacy to, and on behalf of, City elected officials on a variety of issues. These include: federal and state executive and legislative actions; issues and events relating to the City's international and tribal relations; and jurisdictional issues involving King County, suburban cities, and regional governmental organizations.",
+  "department" : "Executive",
+  "_2014_expenditure_allowance" : "2089084",
+  "fund" : "General Subfund",
+  "bcl_name" : "Intergovernmental Relations"
+}
+, {
+  "bcl_code" : "X1N00",
+  "bcl_purpose" : "The purpose of the Office of Immigrant and Refugee Affairs Budget Control Level is to provide services to facilitate the successful integration of immigrants and refugees into Seattle's civic, economic, and cultural life, to recognize their diverse cultures and contributions to Seattle, and to advocate on behalf of immigrants and refugees.",
+  "department" : "Executive",
+  "_2014_expenditure_allowance" : "367588",
+  "fund" : "General Subfund",
+  "bcl_name" : "Office of Immigrant and Refugee Affairs"
+}
+, {
+  "bcl_code" : "X1R00",
+  "bcl_purpose" : "The purpose of the Civil Rights Budget Control Level is to work toward eliminating discrimination in employment, housing, public accommodations, contracting, and lending in Seattle through enforcement, and policy and outreach activities. The Office enforces Seattle's paid sick leave ordinance. The Office seeks to encourage and promote equal access and opportunity, diverse participation, and social and economic equity. In addition, the Office is responsible for directing the Race and Social Justice Initiative, leading other City departments to design and implement programs that help eliminate institutionalized racism.",
+  "department" : "Executive",
+  "_2014_expenditure_allowance" : "2885852",
+  "fund" : "General Subfund",
+  "bcl_name" : "Civil Rights"
+}
+, {
+  "bcl_code" : "2QA00",
+  "bcl_purpose" : "The purpose of the Appropriation to General Fund Subfunds and Special Funds Budget Control Level is to appropriate General Subfund resources, several of which are based upon the performance of certain City revenues, to bond redemption or special purpose funds. These appropriations are implemented as operating transfers to the funds, subfunds, or accounts they support.",
+  "department" : "Finance General",
+  "_2014_expenditure_allowance" : "64354345",
+  "fund" : "General Subfund",
+  "bcl_name" : "Appropriation to General Fund Subfunds and Special Funds"
+}
+, {
+  "bcl_code" : "2QD00",
+  "bcl_purpose" : "The purpose of the Reserves Budget Control Level is to provide appropriation authority to those programs for which there is no single appropriate managing department, or for which there is Council and/ or Mayor desire for additional budget oversight.",
+  "department" : "Finance General",
+  "_2014_expenditure_allowance" : "36256696",
+  "fund" : "General Subfund",
+  "bcl_name" : "Reserves"
+}
+, {
+  "bcl_code" : "2QE00",
+  "bcl_purpose" : "The purpose of the Support to Operating Funds Budget Control Level is to appropriate General Subfund resources to support the operating costs of line departments that have their own operating funds. These appropriations are implemented as operating transfers to the funds or subfunds they support.",
+  "department" : "Finance General",
+  "_2014_expenditure_allowance" : "305641502",
+  "fund" : "General Subfund",
+  "bcl_name" : "Support to Operating Funds"
+}
+, {
+  "bcl_code" : "J1100",
+  "bcl_purpose" : "The purpose of the Administration Budget Control Level is to provide the financial, technological, administrative and managerial support for the Department.",
+  "department" : "Law Department",
+  "_2014_expenditure_allowance" : "2012668",
+  "fund" : "General Subfund",
+  "bcl_name" : "Administration"
+}
+, {
+  "bcl_code" : "J1300",
+  "bcl_purpose" : "The purpose of the Civil Budget Control Level is to provide legal advice to the City's policy-makers, and to defend and represent the City, its employees, and officials before a variety of county, state, and federal courts and administrative bodies.",
+  "department" : "Law Department",
+  "_2014_expenditure_allowance" : "11733147",
+  "fund" : "General Subfund",
+  "bcl_name" : "Civil"
+}
+, {
+  "bcl_code" : "J1500",
+  "bcl_purpose" : "The purpose of the Criminal Budget Control Level includes prosecuting ordinance violations and misdemeanor crimes, maintaining case information and preparing effective case files for the court appearances of prosecuting attorneys, and assisting and advocating for victims of domestic violence throughout the court process.",
+  "department" : "Law Department",
+  "_2014_expenditure_allowance" : "6736333",
+  "fund" : "General Subfund",
+  "bcl_name" : "Criminal"
+}
+, {
+  "bcl_code" : "J1700",
+  "bcl_purpose" : "The purpose of the Precinct Liaison Program is to support a program where attorneys work in each of the City's five precincts, providing legal advice to police and other City departments. In helping to address a variety of neighborhood and community problems, the precinct liaison attorneys coordinate with the Civil and Criminal divisions with the goal of providing a consistent, thorough and effective approach.",
+  "department" : "Law Department",
+  "_2014_expenditure_allowance" : "543410",
+  "fund" : "General Subfund",
+  "bcl_name" : "Precinct Liaison Attorneys"
+}
+, {
+  "bcl_code" : "G1100",
+  "bcl_purpose" : "The purpose of the Legislative Department Budget Control Level is to set policy, enact City laws, approve the City's budget, provide oversight of City departments, and support the mission of the Department.",
+  "department" : "Legislative Department",
+  "_2014_expenditure_allowance" : "12558022",
+  "fund" : "General Subfund",
+  "bcl_name" : "Legislative Department"
+}
+, {
+  "bcl_code" : "VG000",
+  "bcl_purpose" : "The purpose of the Office of City Auditor is to provide unbiased analyses and objective recommendations to assist the City in using public resources more equitably, efficiently, and effectively in delivering services to Seattle residents.",
+  "department" : "Office of City Auditor",
+  "_2014_expenditure_allowance" : "1461132",
+  "fund" : "General Subfund",
+  "bcl_name" : "Office of City Auditor"
+}
+, {
+  "bcl_code" : "V1X00",
+  "bcl_purpose" : "The purpose of the Office of Hearing Examiner Budget Control Level is to conduct fair and impartial hearings in all subject areas where the Seattle Municipal Code grants authority to do so (there are currently more than 50 subject areas) and to issue decisions and recommendations consistent with applicable ordinances.",
+  "department" : "Office of Hearing Examiner",
+  "_2014_expenditure_allowance" : "656328",
+  "fund" : "General Subfund",
+  "bcl_name" : "Office of Hearing Examiner"
+}
+, {
+  "bcl_code" : "N1000",
+  "bcl_purpose" : "The purpose of the Employment and Training Budget Control Level is to provide staffing services, employee-development opportunities, mediation, and technical assistance to all City departments. This Budget Control Level includes the Police and Fire Exams, Employment, Supported Employment, Equal Employment Opportunity, Alternative Dispute Resolution, and Career Quest units.",
+  "department" : "Personnel Department",
+  "_2014_expenditure_allowance" : "2890152",
+  "fund" : "General Subfund",
+  "bcl_name" : "Employment and Training"
+}
+, {
+  "bcl_code" : "N2000",
+  "bcl_purpose" : "The purpose of the Employee Health Services Budget Control Level is to provide employee health care and other benefits, workers' compensation benefits, and safety services to maintain and promote employee health and productivity. This program also includes administration of the Seattle Voluntary Deferred Compensation Plan and Trust.",
+  "department" : "Personnel Department",
+  "_2014_expenditure_allowance" : "2929443",
+  "fund" : "General Subfund",
+  "bcl_name" : "Employee Health Services"
+}
+, {
+  "bcl_code" : "N3000",
+  "bcl_purpose" : "The purpose of the Citywide Personnel Services Budget Control Level is to establish citywide personnel rules and provide human resources systems, policy advice, information management, finance and accounting services, contingent work force oversight, and expert assistance to departments, policymakers, and employees. This program includes Policy Development, Information Management, Finance and Accounting, Temporary Employment Services, and other internal support services.",
+  "department" : "Personnel Department",
+  "_2014_expenditure_allowance" : "2855226",
+  "fund" : "General Subfund",
+  "bcl_name" : "Citywide Personnel Services"
+}
+, {
+  "bcl_code" : "N4000",
+  "bcl_purpose" : "The purpose of the City/ Union Relations and Classification/ Compensation Services Budget Control Level is to support the City's efforts to fairly manage and compensate its diverse work force. City/ Union Relations staff provide technical and professional labor-relations services to policymakers and management staff of all City departments. The Class/ Comp staff develop personnel rules, pay programs, perform compensation analysis, and provide classification services and organizational consultation to all City departments.",
+  "department" : "Personnel Department",
+  "_2014_expenditure_allowance" : "3496441",
+  "fund" : "General Subfund",
+  "bcl_name" : "City/ Union Relations and Class/ Comp Services"
+}
+, {
+  "bcl_code" : "F1000",
+  "bcl_purpose" : "The purpose of the Administration Budget Control Level is to provide management information and to allocate and manage available resources needed to achieve the Department's mission.",
+  "department" : "Seattle Fire Department",
+  "_2014_expenditure_allowance" : "7606981",
+  "fund" : "General Subfund",
+  "bcl_name" : "Administration"
+}
+, {
+  "bcl_code" : "F2000",
+  "bcl_purpose" : "The purpose of the Resource Management Budget Control Level (formerly known as Risk Management) is to recruit and train uniformed staff, reduce injuries by identifying and changing practices that place firefighters at greater risk, provide services to enhance firefighter health and wellness, and provide communication services and logistical support.",
+  "department" : "Seattle Fire Department",
+  "_2014_expenditure_allowance" : "11230855",
+  "fund" : "General Subfund",
+  "bcl_name" : "Resource Management"
+}
+, {
+  "bcl_code" : "F3000",
+  "bcl_purpose" : "The purpose of the Operations Budget Control Level is to provide emergency and disaster response capabilities for fire suppression, emergency medical needs, hazardous materials, weapons of mass destruction, and search and rescue.",
+  "department" : "Seattle Fire Department",
+  "_2014_expenditure_allowance" : "146793970",
+  "fund" : "General Subfund",
+  "bcl_name" : "Operations"
+}
+, {
+  "bcl_code" : "F5000",
+  "bcl_purpose" : "The purpose of the Fire Prevention Budget Control Level is to provide Fire Code enforcement to help prevent injury and loss from fire and other hazards.",
+  "department" : "Seattle Fire Department",
+  "_2014_expenditure_allowance" : "7419132",
+  "fund" : "General Subfund",
+  "bcl_name" : "Fire Prevention"
+}
+, {
+  "bcl_code" : "F6000",
+  "bcl_purpose" : "The purpose of the Grants & Reimbursables Budget Control Level (BCL) is to improve financial management of grant and reimbursable funds. In the annual budget process, costs for staff and equipment are fully reflected in the BCLs in which they reside; for example, in the Operations BCL. When reimbursable expenditures are made, the expenses are moved into this BCL to separate reimbursable and non-reimbursable costs.",
+  "department" : "Seattle Fire Department",
+  "_2014_expenditure_allowance" : "411686",
+  "fund" : "General Subfund",
+  "bcl_name" : "Grants & Reimbursables"
+}
+, {
+  "bcl_code" : "M2000",
+  "bcl_purpose" : "The purpose of the Court Operations Budget Control Level is to hold hearings and address legal requirements for defendants and others who come before the Court. Some proceedings are held in formal courtrooms and others in magistrate offices, with the goal of providing timely resolution of alleged violations of City ordinances and misdemeanor crimes committed within the Seattle city limits.",
+  "department" : "Seattle Municipal Court",
+  "_2014_expenditure_allowance" : "16517907",
+  "fund" : "General Subfund",
+  "bcl_name" : "Court Operations"
+}
+, {
+  "bcl_code" : "M3000",
+  "bcl_purpose" : "The purpose of the Court Administration Budget Control Level is to provide administrative controls, develop and provide strategic direction, and provide policy and program development.",
+  "department" : "Seattle Municipal Court",
+  "_2014_expenditure_allowance" : "6278790",
+  "fund" : "General Subfund",
+  "bcl_name" : "Court Administration"
+}
+, {
+  "bcl_code" : "M4000",
+  "bcl_purpose" : "The purpose of the Court Compliance Budget Control Level is to help defendants understand the Court's expectations and to assist them in successfully complying with court orders.",
+  "department" : "Seattle Municipal Court",
+  "_2014_expenditure_allowance" : "5492767",
+  "fund" : "General Subfund",
+  "bcl_name" : "Court Compliance"
+}
+, {
+  "bcl_code" : "P1000",
+  "bcl_purpose" : "The purpose of the Chief of Police Program is to lead and direct department employees and to provide policy guidance and oversee relationships with the community, with the goal that the department provide the City with professional, dependable, and respectful public safety services.",
+  "department" : "Seattle Police Department",
+  "_2014_expenditure_allowance" : "3628345",
+  "fund" : "General Subfund",
+  "bcl_name" : "Chief of Police"
+}
+, {
+  "bcl_code" : "P1300",
+  "bcl_purpose" : "The purpose of the Office of Professional Accountability Budget Control Level is to help to provide oversight with the goal that complaints involving department employees are handled in a thorough, professional, and expeditious manner, to retain the trust and confidence of employees and the public.",
+  "department" : "Seattle Police Department",
+  "_2014_expenditure_allowance" : "1971424",
+  "fund" : "General Subfund",
+  "bcl_name" : "Office of Professional Accountability"
+}
+, {
+  "bcl_code" : "P1600",
+  "bcl_purpose" : "The purpose of the Deputy Chief of Staff Budget Control Level is to oversee the organizational support and legal functions of the Department to help achieve its mission. The Deputy Chief of Staff Budget Control Level includes the Chief of Administration who oversees the Records and Files, Data Center, and Public Request Programs, which had been their own Budget Control Levels in prior budgets. The Deputy Chief of Staff Budget Control Level was known as the Deputy Chief of Administration in previous budgets.",
+  "department" : "Seattle Police Department",
+  "_2014_expenditure_allowance" : "26322311",
+  "fund" : "General Subfund",
+  "bcl_name" : "Deputy Chief of Staff"
+}
+, {
+  "bcl_code" : "P1800",
+  "bcl_purpose" : "The purpose of the Deputy Chief Operations Budget Control Level is to oversee the operational functions of the Department with the goal that the public receives public safety services that are dependable, professional, and respectful. The Deputy Chief Operations Budget Control Level oversees the five Precincts and associated personnel.",
+  "department" : "Seattle Police Department",
+  "_2014_expenditure_allowance" : "2332794",
+  "fund" : "General Subfund",
+  "bcl_name" : "Deputy Chief Operations"
+}
+, {
+  "bcl_code" : "P3400",
+  "bcl_purpose" : "The purpose of the Special Operations Budget Control Level is to deploy specialized response units in emergencies and disasters. The Bureau provides crowd control, special event, search, hostage, crisis, and water-related support to monitor and protect critical infrastructure to protect lives and property, aid the work of uniformed officers and detectives, and promote the safety of the public. ",
+  "department" : "Seattle Police Department",
+  "_2014_expenditure_allowance" : "45565654",
+  "fund" : "General Subfund",
+  "bcl_name" : "Special Operations"
+}
+, {
+  "bcl_code" : "P6000",
+  "bcl_purpose" : "The purpose of the Office of Professional Accountability Budget Control Level is to help to provide oversight with the goal that complaints involving department employees are handled in a thorough, professional, and expeditious manner, to retain the trust and confidence of employees and the public.",
+  "department" : "Seattle Police Department",
+  "_2014_expenditure_allowance" : "1315411",
+  "fund" : "General Subfund",
+  "bcl_name" : "Patrol Operations Administration"
+}
+, {
+  "bcl_code" : "P6100",
+  "bcl_purpose" : "The purpose of the West Precinct Patrol Budget Control Level is to provide the full range of public safety and order maintenance services to residents of, and visitors to, the West Precinct, to promote safety in their homes, schools, businesses, and the community at large.",
+  "department" : "Seattle Police Department",
+  "_2014_expenditure_allowance" : "29024085",
+  "fund" : "General Subfund",
+  "bcl_name" : "West Precinct Patrol"
+}
+, {
+  "bcl_code" : "P6200",
+  "bcl_purpose" : "The purpose of the North Precinct Patrol Budget Control Level is to provide the full range of public safety and order maintenance services to residents of, and visitors to, the North Precinct, to promote safety in their homes, schools, businesses, and the community at large.",
+  "department" : "Seattle Police Department",
+  "_2014_expenditure_allowance" : "31389723",
+  "fund" : "General Subfund",
+  "bcl_name" : "North Precinct Patrol"
+}
+, {
+  "bcl_code" : "P6500",
+  "bcl_purpose" : "The purpose of the South Precinct Patrol Budget Control Level is to provide the full range of public safety and order maintenance services with the goal of keeping residents of, and visitors to, the South Precinct, safe in their homes, schools, businesses, and the community at large.",
+  "department" : "Seattle Police Department",
+  "_2014_expenditure_allowance" : "17035206",
+  "fund" : "General Subfund",
+  "bcl_name" : "South Precinct Patrol"
+}
+, {
+  "bcl_code" : "P6600",
+  "bcl_purpose" : "The purpose of the East Precinct Budget Control Level is to provide the full range of public safety and order maintenance services to residents of, and visitors to, the East Precinct, to promote safety in their homes, schools, businesses, and the community at large.",
+  "department" : "Seattle Police Department",
+  "_2014_expenditure_allowance" : "23270580",
+  "fund" : "General Subfund",
+  "bcl_name" : "East Precinct"
+}
+, {
+  "bcl_code" : "P6700",
+  "bcl_purpose" : "The purpose of the Southwest Precinct Patrol Budget Control Level is to provide the full range of public safety and order maintenance services to residents of, and visitors to, the Southwest Precinct, to promote safety in their homes, schools, businesses, and the community at large.",
+  "department" : "Seattle Police Department",
+  "_2014_expenditure_allowance" : "15414679",
+  "fund" : "General Subfund",
+  "bcl_name" : "Southwest Precinct Patrol"
+}
+, {
+  "bcl_code" : "P7000",
+  "bcl_purpose" : "The purpose of the Criminal Investigations Administration Budget Control Level is to direct and support the work of employees in the Criminal Investigations Bureau by providing oversight and policy guidance, and technical support. The program includes the Internet Crimes against Children and Human Trafficking section and the Crime Gun Initiative analyst.",
+  "department" : "Seattle Police Department",
+  "_2014_expenditure_allowance" : "8134776",
+  "fund" : "General Subfund",
+  "bcl_name" : "Criminal Investigations Administration"
+}
+, {
+  "bcl_code" : "P7100",
+  "bcl_purpose" : "The purpose of the Violent Crimes Investigations Budget Control Level is to apply a broad range of professional investigative skills and crime scene investigation techniques to homicide, assault, robbery, bias crimes, missing persons, extortion, threat and harassment, and gang-related cases, in order to hold offenders accountable, help prevent further harm to victims, and promote public safety.",
+  "department" : "Seattle Police Department",
+  "_2014_expenditure_allowance" : "7465891",
+  "fund" : "General Subfund",
+  "bcl_name" : "Violent Crimes Investigations"
+}
+, {
+  "bcl_code" : "P7700",
+  "bcl_purpose" : "The purpose of the Narcotics Investigations Budget Control Level is to apply a broad range of professional investigative skills to interdict narcotics activities affecting the community and region to hold offenders involved in these activities accountable and to promote public safety.",
+  "department" : "Seattle Police Department",
+  "_2014_expenditure_allowance" : "4749243",
+  "fund" : "General Subfund",
+  "bcl_name" : "Narcotics Investigations"
+}
+, {
+  "bcl_code" : "P7800",
+  "bcl_purpose" : "The purpose of the Special Investigations Budget Control Level is to apply a broad range of professional investigative and analytical skills toward investigating and interdicting vehicle theft, fraud, forgery, and financial exploitation cases; vice crimes and organized crime activities in the community; and toward identifying and describing crime patterns and trends with the goals of holding offenders involved in these activities accountable and to promote public safety.",
+  "department" : "Seattle Police Department",
+  "_2014_expenditure_allowance" : "4338182",
+  "fund" : "General Subfund",
+  "bcl_name" : "Special Investigations"
+}
+, {
+  "bcl_code" : "P7900",
+  "bcl_purpose" : "The purpose of the Special Victims Budget Control Level is to apply a broad range of professional investigative skills to cases involving family violence, sexual assault, child, and elder abuse, and custodial interference with the goals of holding offenders accountable, preventing additional harm to victims, and promoting public safety.",
+  "department" : "Seattle Police Department",
+  "_2014_expenditure_allowance" : "6333699",
+  "fund" : "General Subfund",
+  "bcl_name" : "Special Victims"
+}
+, {
+  "bcl_code" : "P8000",
+  "bcl_purpose" : "The purpose of the Field Support Administration Budget Control Level is to provide policy direction and guidance to the employees and programs in the Department. The Field Support Administration Budget Control Level now includes the Communications, Information Technology, and Human Resources Programs; which were separate Budget Control Levels in prior budgets.",
+  "department" : "Seattle Police Department",
+  "_2014_expenditure_allowance" : "39294528",
+  "fund" : "General Subfund",
+  "bcl_name" : "Field Support Administration"
+}
+, {
+  "bcl_code" : "CJ000",
+  "bcl_purpose" : "The purpose of the Claim Expenses Budget Control Level is to provide the Director of the Department of Finance and Administrative Services with the resources to pay pending or actual claims and related costs against City government, as authorized by Chapter 5.24 of the Seattle Municipal Code. The Claims Budget Control Level is supported by the Judgment/ Claims Subfund of the General Fund.",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "3862500",
+  "fund" : "Judgment/ Claims Subfund (00126)",
+  "bcl_name" : "Claim Expenses"
+}
+, {
+  "bcl_code" : "JR000",
+  "bcl_purpose" : "The purpose of the Litigation Expenses Budget Control Level is to provide the City Attorney with the resources to pay anticipated, pending or actual judgments, claims payments, advance claims payments, and litigation expenses incurred while defending the City from judgments and claims. The Litigation Expenses Budget Control Level is supported by the Judgment/ Claims Subfund of the General Fund.",
+  "department" : "Law Department",
+  "_2014_expenditure_allowance" : "11586470",
+  "fund" : "Judgment/ Claims Subfund (00126)",
+  "bcl_name" : "Litigation Expenses"
+}
+, {
+  "bcl_code" : "JR010",
+  "bcl_purpose" : "The purpose of the General Legal Expenses Budget Control Level is to provide the City Attorney with resources to pay legal costs associated with potential litigation against the City, where the City is a plaintiff or potential plaintiff in legal action, or other special projects. The General Legal Expenses Budget Control Level is supported by the Judgment/ Claims Subfund of the General Fund.",
+  "department" : "Law Department",
+  "_2014_expenditure_allowance" : "103000",
+  "fund" : "Judgment/ Claims Subfund (00126)",
+  "bcl_name" : "General Legal Expenses"
+}
+, {
+  "bcl_code" : "JR020",
+  "bcl_purpose" : "The purpose of the Police Action Expenses Budget Control Level is to provide the City Attorney with the resources to pay pending or actual settlements and judgments against the City related to police action cases, or pay related costs to investigate and defend the City against claims and judgments related to police action cases. The Police Action Expenses Budget Control Level is supported by the Judgment/ Claims Subfund of the General Fund.",
+  "department" : "Law Department",
+  "_2014_expenditure_allowance" : "1307208",
+  "fund" : "Judgment/ Claims Subfund (00126)",
+  "bcl_name" : "Police Action Expenses"
+}
+, {
+  "bcl_code" : "MUNIJAIL-BCL",
+  "bcl_purpose" : "The purpose of the Municipal Jail Bond Proceeds Budget Control Level is to pay capital costs associated with the construction of a new jail.",
+  "department" : "Executive",
+  "_2014_expenditure_allowance" : "1000000",
+  "fund" : "Municipal Jail Subfund",
+  "bcl_name" : "Municipal Jail Bond Proceeds"
+}
+, {
+  "bcl_code" : "VA140",
+  "bcl_purpose" : "The purpose of the Arts Account Budget Control Level (BCL) is to invest in Seattle's arts and cultural community to keep artists living and working in Seattle, to build community through arts and cultural events, and to increase arts opportunities for youth. The BCL appropriates the Office's admission tax set-aside, which is 75 percent of the city's total Admission Tax revenues.",
+  "department" : "Executive",
+  "_2014_expenditure_allowance" : "4730087",
+  "fund" : "Arts Account (00140)",
+  "bcl_name" : "Arts Account"
+}
+, {
+  "bcl_code" : "D160B",
+  "bcl_purpose" : "The purpose of the Cable Fee Support to Information Technology Fund Budget Control Level is to authorize the transfer of resources from the Cable Television Franchise Subfund to the Department of Information Technology's Information Technology Fund. These resources are used by the Department for a variety of programs consistent with Resolution 30379.",
+  "department" : "Department of Information Technology",
+  "_2014_expenditure_allowance" : "8669197",
+  "fund" : "Cable Television Franchise Subfund (00160)",
+  "bcl_name" : "Cable Fee Support to Information Technology Fund"
+}
+, {
+  "bcl_code" : "D160C",
+  "bcl_purpose" : "The purpose of the Cable Fee Support to Library Fund Budget Control Level is to authorize the transfer of resources from the Cable Television Franchise Subfund to the Seattle Public Library's Operating Fund. The Library uses these resources to pay for and maintain computers available to the public.",
+  "department" : "Department of Information Technology",
+  "_2014_expenditure_allowance" : "190000",
+  "fund" : "Cable Television Franchise Subfund (00160)",
+  "bcl_name" : "Cable Fee Support to Library Fund"
+}
+, {
+  "bcl_code" : "K72440",
+  "bcl_purpose" : "The purpose of the Debt Service and Contract Obligation Budget Control Level (BCL) is to meet principal repayment and interest obligations on funds borrowed to meet Parks and Recreation's capital expenditure requirements and to provide funds for centrally allocated contracting services. This BCL is supported by REET II dollars (Fund 00161).",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "2018000",
+  "fund" : "Cumulative Reserve Subfund - REET II Subaccount (00161)",
+  "bcl_name" : "Debt Service and Contract Obligation (00161-CIP)"
+}
+, {
+  "bcl_code" : "K72441",
+  "bcl_purpose" : "The purpose of the Parks Infrastructure Budget Control Level (BCL) is to provide for the rehabilitation, replacement and addition of Parks infrastructure. This BCL is funded by REET II dollars (Fund 00161).",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "475000",
+  "fund" : "Cumulative Reserve Subfund - REET II Subaccount (00161)",
+  "bcl_name" : "Parks Infrastructure (00161-CIP)"
+}
+, {
+  "bcl_code" : "K72442",
+  "bcl_purpose" : "The purpose of the Forest Restoration Budget Control Level (BCL) is to protect and restore Parks and Recreation's forest habitat and to mitigate future environmental impacts. This BCL is funded by REET II dollars (Fund 00161).",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "571000",
+  "fund" : "Cumulative Reserve Subfund - REET II Subaccount (00161)",
+  "bcl_name" : "Forest Restoration (00161-CIP)"
+}
+, {
+  "bcl_code" : "K72444",
+  "bcl_purpose" : "The purpose of the Building Component Renovations Budget Control Level (BCL) is to rehabilitate and replace Parks and Recreation's buildings and their components. This BCL is funded by REET II dollars (Fund 00161).",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "1608000",
+  "fund" : "Cumulative Reserve Subfund - REET II Subaccount (00161)",
+  "bcl_name" : "Building Component Renovations (00161-CIP)"
+}
+, {
+  "bcl_code" : "K72445",
+  "bcl_purpose" : "The purpose of the Ballfields/ Athletic Courts/ Play Areas Budget Control Level (BCL) is to provide for the rehabilitation and replacement of Parks and Recreation's ballfields, athletic courts, and play areas. This BCL is funded by REET II dollars (Fund 00161).",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "1356000",
+  "fund" : "Cumulative Reserve Subfund - REET II Subaccount (00161)",
+  "bcl_name" : "Ballfields/ Athletic Courts/ Play Areas (00161-CIP)"
+}
+, {
+  "bcl_code" : "K72447",
+  "bcl_purpose" : "The purpose of the Docks/ Piers/ Floats/ Seawalls/ Shorelines Budget Control Level (BCL) is to provide for the rehabilitation and replacement of Parks and Recreation's docks, piers, floats, seawalls and shorelines. This BCL is funded by REET II dollars (Fund 00161).",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "1122000",
+  "fund" : "Cumulative Reserve Subfund - REET II Subaccount (00161)",
+  "bcl_name" : "Docks/ Piers/ Floats/ Seawalls/ Shorelines (00161- CIP)"
+}
+, {
+  "bcl_code" : "K72449",
+  "bcl_purpose" : "The purpose of the Citywide and Neighborhood Projects Budget Control Level (BCL) is to provide funds for the development, and rehabilitation of neighborhood parks and green spaces. This BCL is funded by REET II dollars (Fund 00161).",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "955000",
+  "fund" : "Cumulative Reserve Subfund - REET II Subaccount (00161)",
+  "bcl_name" : "Citywide and Neighborhood Projects (00161-CIP)"
+}
+, {
+  "bcl_code" : "2ECM0",
+  "bcl_purpose" : "The purpose of the CRS REET II Support to Transportation Budget Control Level is to appropriate funds from REET II to the Transportation Operating Fund to support specific capital programs, or in the case of the Debt Service Program, appropriate funds to pay debt service costs directly from the REET II Subaccount.",
+  "department" : "Seattle Department of Transportation",
+  "_2014_expenditure_allowance" : "9596000",
+  "fund" : "Cumulative Reserve Subfund - REET II Subaccount (00161)",
+  "bcl_name" : "CRS REET II Support to Transportation"
+}
+, {
+  "bcl_code" : "A1FL1",
+  "bcl_purpose" : "The purpose of the Neighborhood Fire Stations Budget Control Level (BCL) is to replace and renovate fire stations and other emergency response facilities as part of the Fire Facilities and Emergency Response Levy program. This BCL is funded by REET I dollars (Fund 00163).",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "1880000",
+  "fund" : "Cumulative Reserve Subfund - REET I Subaccount (00163)",
+  "bcl_name" : "Neighborhood Fire Stations (00163-CIP)"
+}
+, {
+  "bcl_code" : "A1GM1",
+  "bcl_purpose" : "The purpose of the General Government Facilities - General Budget Control Level (BCL) is to execute capital projects in general government facilities. This BCL is funded by REET I dollars (Fund 00163).",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "141000",
+  "fund" : "Cumulative Reserve Subfund - REET I Subaccount (00163)",
+  "bcl_name" : "General Government Facilities - General (00163-CIP)"
+}
+, {
+  "bcl_code" : "A1MSY",
+  "bcl_purpose" : "The purpose of the Maintenance Shops and Yards Budget Control Level (BCL) is to preserve, improve or enhance the operation capacity of existing FAS-owned and operated shop and yard facilities. This BCL is funded by REET I dollars (Fund 00163).",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "2552000",
+  "fund" : "Cumulative Reserve Subfund - REET I Subaccount (00163)",
+  "bcl_name" : "Maintenance Shops and Yards (00163-CIP)"
+}
+, {
+  "bcl_code" : "A1PS1",
+  "bcl_purpose" : "The purpose of the Public Safety Facilities - Police Budget Control Level (BCL) is to renovate, expand, replace, or build police facilities. This BCL is funded by REET I dollars (Fund 00163).",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "365000",
+  "fund" : "Cumulative Reserve Subfund - REET I Subaccount (00163)",
+  "bcl_name" : "Public Safety Facilities - Police (00163-CIP)"
+}
+, {
+  "bcl_code" : "K72440",
+  "bcl_purpose" : "The purpose of the Debt Service and Contract Obligation Budget Control Level (BCL) is to meet principal repayment and interest obligations on funds borrowed to meet Parks and Recreation's capital expenditure requirements and to provide funds for centrally allocated contracting services. This BCL is funded by REET I dollars (Fund 00163).",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "803000",
+  "fund" : "Cumulative Reserve Subfund - REET I Subaccount (00163)",
+  "bcl_name" : "Debt Service and Contract Obligation (00163-CIP)"
+}
+, {
+  "bcl_code" : "K72442",
+  "bcl_purpose" : "The purpose of the Forest Restoration Budget Control Level (BCL) is to protect and restore Parks and Recreation's forest habitat and to mitigate future environmental impacts. This BCL is funded by REET I dollars (Fund 00163).",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "1293000",
+  "fund" : "Cumulative Reserve Subfund - REET I Subaccount (00163)",
+  "bcl_name" : "Forest Restoration (00163-CIP)"
+}
+, {
+  "bcl_code" : "K72444",
+  "bcl_purpose" : "The purpose of the Building Component Renovations Budget Control Level (BCL) is to rehabilitate and replace Parks and Recreation's buildings and their components. This BCL is funded by REET II dollars (Fund 00161).",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "4068000",
+  "fund" : "Cumulative Reserve Subfund - REET I Subaccount (00163)",
+  "bcl_name" : "Building Component Renovations (00163-CIP)"
+}
+, {
+  "bcl_code" : "K72445",
+  "bcl_purpose" : "The purpose of the Ballfields/ Athletic Courts/ Play Areas Budget Control Level (BCL) is to provide for the rehabilitation and replacement of Parks and Recreation's ballfields, athletic courts, and play areas. This BCL is funded by REET II dollars (Fund 00161).",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "514000",
+  "fund" : "Cumulative Reserve Subfund - REET I Subaccount (00163)",
+  "bcl_name" : "Ballfields/ Athletic Courts/ Play Areas (00163-CIP)"
+}
+, {
+  "bcl_code" : "2UU50-DC-163",
+  "bcl_purpose" : "The purpose of the Design Commission - CRS REET I Budget Control Level is to support the Design Commission, which advises the Mayor, City Council, and City departments on the design of capital improvements and other projects that shape Seattle's public realm. The goals of the Commission are to see that public facilities and projects within the city's right-of-way incorporate design excellence, that City projects achieve their goals in an economical manner, and that they fit the City's design goals.",
+  "department" : "Department of Planning and Development",
+  "_2014_expenditure_allowance" : "508071",
+  "fund" : "Cumulative Reserve Subfund - REET I Subaccount (00163)",
+  "bcl_name" : "Design Commission - CRS REET I"
+}
+, {
+  "bcl_code" : "2UU51",
+  "bcl_purpose" : "The purpose of the Tenant Relocation Assistance Program REET I Budget Control Level is to allow the City to pay for relocation assistance to low income tenants displaced by development activity, as authorized by SMC 22.210 and RCW 59.18.440.",
+  "department" : "Department of Planning and Development",
+  "_2014_expenditure_allowance" : "157436",
+  "fund" : "Cumulative Reserve Subfund - REET I Subaccount (00163)",
+  "bcl_name" : "Tenant Relocation Assistance Program REET I"
+}
+, {
+  "bcl_code" : "V2ACGM-163",
+  "bcl_purpose" : "The purpose of the Artwork Conservation - OACA - CRS REET I Budget Control Level is to support the Arts Conservation Program, which is administered by the Office of Arts & Cultural Affairs. This program provides professional assessment, conservation, repair, routine and major maintenance, and relocation of artwork for both the City's approximately 400-piece, permanently sited art collection and the approximately 2,700- piece portable artwork collection. The entire collection is an asset to the City, and while major maintenance is generally not required for the new artwork entering the collection, professional routine care and responses to vandalism are necessary to protect this investment.",
+  "department" : "Executive",
+  "_2014_expenditure_allowance" : "187000",
+  "fund" : "Cumulative Reserve Subfund - REET I Subaccount (00163)",
+  "bcl_name" : "Artwork Conservation - OACA - CRS REET I"
+}
+, {
+  "bcl_code" : "2SC10",
+  "bcl_purpose" : "The purpose of the CRS REET I Support to McCaw Hall Fund Budget Control Level is to appropriate resources from REET I to the McCaw Hall Fund to support major maintenance work on McCall Hall. Any capital projects related to the expenditure of this reserve are listed in Seattle Center's Capital Improvement Program.",
+  "department" : "Seattle Center",
+  "_2014_expenditure_allowance" : "250000",
+  "fund" : "Cumulative Reserve Subfund - REET I Subaccount (00163)",
+  "bcl_name" : "CRS REET I Support to McCaw Hall Fund"
+}
+, {
+  "bcl_code" : "S03P01",
+  "bcl_purpose" : "The purpose of the Campuswide Improvements and Repairs Budget Control Level (BCL) is to provide for improvements throughout the Seattle Center campus, including lighting, signage, artwork maintenance, open space and hard surface repairs, accessibility improvements, and planning. This BCL is funded by REET I dollars (Fund 00163).",
+  "department" : "Seattle Center",
+  "_2014_expenditure_allowance" : "1145000",
+  "fund" : "Cumulative Reserve Subfund - REET I Subaccount (00163)",
+  "bcl_name" : "Campuswide Improvements and Repairs (00163-CIP)"
+}
+, {
+  "bcl_code" : "S03P02",
+  "bcl_purpose" : "The purpose of the Facility Infrastructure Renovation and Repair Budget Control Level (BCL) is to provide for seismic improvements, roof repair and replacement, and other infrastructure improvements to facilities on the Seattle Center campus. This BCL is funded by REET I dollars (Fund 00163).",
+  "department" : "Seattle Center",
+  "_2014_expenditure_allowance" : "200000",
+  "fund" : "Cumulative Reserve Subfund - REET I Subaccount (00163)",
+  "bcl_name" : "Facility Infrastructure Renovation and Repair (00163- CIP)"
+}
+, {
+  "bcl_code" : "S03P03",
+  "bcl_purpose" : "The purpose of the Utility Infrastructure Budget Control Level (BCL) is to provide for repair, replacement and renovation of utilities at Seattle Center, including chilled water and steam lines, electrical equipment, and communication lines. This BCL is funded by REET I dollars (Fund 00163).",
+  "department" : "Seattle Center",
+  "_2014_expenditure_allowance" : "275000",
+  "fund" : "Cumulative Reserve Subfund - REET I Subaccount (00163)",
+  "bcl_name" : "Utility Infrastructure (00163-CIP)"
+}
+, {
+  "bcl_code" : "S03P04",
+  "bcl_purpose" : "The purpose of the Key Arena Budget Control Level is to maintain and enhance the KeyArena facility. This BCL is funded by REET I dollars (Fund 00163).",
+  "department" : "Seattle Center",
+  "_2014_expenditure_allowance" : "200000",
+  "fund" : "Cumulative Reserve Subfund - REET I Subaccount (00163)",
+  "bcl_name" : "Key Arena (00163-CIP)"
+}
+, {
+  "bcl_code" : "S9113",
+  "bcl_purpose" : "The purpose of the Center House Rehabilitation Budget Control Level (BCL) is to provide for major maintenance and improvements to the Center House at Seattle Center. This BCL is funded by REET I dollars (Fund 00163).",
+  "department" : "Seattle Center",
+  "_2014_expenditure_allowance" : "1044000",
+  "fund" : "Cumulative Reserve Subfund - REET I Subaccount (00163)",
+  "bcl_name" : "Center House Rehabilitation (00163-CIP)"
+}
+, {
+  "bcl_code" : "S9705",
+  "bcl_purpose" : "The purpose of the Fisher Pavilion Budget Control Level (BCL) is to provide for capital repairs and improvements to the Fisher Pavilion at Seattle Center. This BCL is funded by REET I dollars (Fund 00163).",
+  "department" : "Seattle Center",
+  "_2014_expenditure_allowance" : "50000",
+  "fund" : "Cumulative Reserve Subfund - REET I Subaccount (00163)",
+  "bcl_name" : "Fisher Pavilion (00163-CIP)"
+}
+, {
+  "bcl_code" : "S9902",
+  "bcl_purpose" : "The purpose of the Public Gathering Space Improvements Budget Control Level (BCL) is to provide for major maintenance and improvements to meeting rooms, exhibition spaces, and public gathering spaces at Seattle Center. This BCL is funded by CRS Unrestricted dollars. (Fund 00163-CIP)",
+  "department" : "Seattle Center",
+  "_2014_expenditure_allowance" : "300000",
+  "fund" : "Cumulative Reserve Subfund - REET I Subaccount (00163)",
+  "bcl_name" : "Public Gathering Space Improvements (00163-CIP)"
+}
+, {
+  "bcl_code" : "2EC30",
+  "bcl_purpose" : "The purpose of the CRS REET I Support to Transportation Fund Budget Control Level is to appropriate funds from REET I to the Transportation Operating Fund to support specific capital programs, or in the case of the Debt Service Program, appropriate funds to pay debt service costs directly from the REET I Subaccount.",
+  "department" : "Seattle Department of Transportation",
+  "_2014_expenditure_allowance" : "1500000",
+  "fund" : "Cumulative Reserve Subfund - REET I Subaccount (00163)",
+  "bcl_name" : "CRS REET I Support to Transportation"
+}
+, {
+  "bcl_code" : "B301111",
+  "bcl_purpose" : "The purpose of the Library Major Maintenance Budget Control Level is to provide major maintenance to Library facilities, which include the Central Library and all branch libraries, to help provide for building integrity and improve functionality for patrons and staff. This BCL is funded by REET I dollars (Fund 00163).",
+  "department" : "The Seattle Public Library",
+  "_2014_expenditure_allowance" : "500000",
+  "fund" : "Cumulative Reserve Subfund - REET I Subaccount (00163)",
+  "bcl_name" : "Library Major Maintenance (00163-CIP)"
+}
+, {
+  "bcl_code" : "KMOHAI",
+  "bcl_purpose" : "The purpose of the MOHAI Replacement Facilities BCL is to replace the functions and facilities of the Museum of History and Industry's (MOHAI) Montlake location, including but not limited to those facilities and functions including in MOHAI's proposed project at the Lake Union Armory. The City intends to use the proceeds it receives from the Washington State Department of Transportation's purchase of the city-owned MOHAI facility at Montlake to contract with MOHAI to replace those functions and facilities.",
+  "department" : "Cumulative Reserve Subfund",
+  "_2014_expenditure_allowance" : "2500000",
+  "fund" : "Cumulative Reserve Subfund - Unrestricted Subaccount (00164)",
+  "bcl_name" : "MOHAI Replacement Facilities"
+}
+, {
+  "bcl_code" : "A51647",
+  "bcl_purpose" : "The purpose of the Garden of Remembrance Budget Control Level (BCL) is to provide City support for replacing components of the memorial located at the Benaroya Concert Hall. This BCL is funded by CRS Unrestricted dollars (Fund 00164)",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "24781",
+  "fund" : "Cumulative Reserve Subfund - Unrestricted Subaccount (00164)",
+  "bcl_name" : "Garden of Remembrance (00164-CIP)"
+}
+, {
+  "bcl_code" : "K72440",
+  "bcl_purpose" : "The purpose of the Debt Service and Contract Obligation Budget Control Level (BCL) is to meet principal repayment and interest obligations on funds borrowed to meet Parks and Recreation's capital expenditure requirements and to provide funds for centrally allocated contracting services. This BCL is funded by CRS Unrestricted dollars (Fund 00164).",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "1611000",
+  "fund" : "Cumulative Reserve Subfund - Unrestricted Subaccount (00164)",
+  "bcl_name" : "Debt Service and Contract Obligation (00164-CIP)"
+}
+, {
+  "bcl_code" : "K72442",
+  "bcl_purpose" : "The purpose of the Forest Restoration Budget Control Level (BCL) is to protect and restore Parks and Recreation's forest habitat and to mitigate future environmental impacts. This BCL is funded by CRS Unrestricted dollars (Fund 00164).",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "101000",
+  "fund" : "Cumulative Reserve Subfund - Unrestricted Subaccount (00164)",
+  "bcl_name" : "Forest Restoration (00164-CIP)"
+}
+, {
+  "bcl_code" : "K72444",
+  "bcl_purpose" : "The purpose of the Building Component Renovations Budget Control Level (BCL) is to rehabilitate and replace Parks and Recreation's buildings and their components. This BCL is funded by CRS Unrestricted dollars (Fund 00164).",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "840000",
+  "fund" : "Cumulative Reserve Subfund - Unrestricted Subaccount (00164)",
+  "bcl_name" : "Building Component Renovations (00164-CIP)"
+}
+, {
+  "bcl_code" : "K72445",
+  "bcl_purpose" : "The purpose of the Ballfields/ Athletic Courts/ Play Areas Budget Control Level (BCL) is to provide for the rehabilitation and replacement of Parks and Recreation's ballfields, athletic courts, and play areas. This BCL is funded by REET II dollars (Fund 00164).)",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "305000",
+  "fund" : "Cumulative Reserve Subfund - Unrestricted Subaccount (00164)",
+  "bcl_name" : "Ballfields/ Athletic Courts/ Play Areas (00164-CIP)"
+}
+, {
+  "bcl_code" : "K72447",
+  "bcl_purpose" : "The purpose of the Docks/ Piers/ Floats/ Seawalls/ Shorelines Budget Control Level (BCL) is to provide for the rehabilitation and replacement of Parks and Recreation's docks, piers, floats, seawalls and shorelines. This BCL is funded by CRS Unrestricted dollars (Fund 00164).",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "60000",
+  "fund" : "Cumulative Reserve Subfund - Unrestricted Subaccount (00164)",
+  "bcl_name" : "Docks/ Piers/ Floats/ Seawalls/ Shorelines (00164- CIP)"
+}
+, {
+  "bcl_code" : "2UU50-TA",
+  "bcl_purpose" : "The purpose of the Tenant Relocation Assistance Program - CRS- UR Budget Control Level is to allow the City to pay for relocation assistance to low-income tenants displaced by development activity, as authorized by SMC 22.210 and RCW 59.18.440. ",
+  "department" : "Department of Planning and Development",
+  "_2014_expenditure_allowance" : "75678",
+  "fund" : "Cumulative Reserve Subfund - Unrestricted Subaccount (00164)",
+  "bcl_name" : "Tenant Relocation Assistance Program - CRS-UR"
+}
+, {
+  "bcl_code" : "S03P01",
+  "bcl_purpose" : "The purpose of the Campuswide Improvements and Repairs Budget Control Level (BCL) is to provide for improvements throughout the Seattle Center campus, including lighting, signage, artwork maintenance, open space and hard surface repairs, accessibility improvements, and planning. This BCL is funded by CRS Unrestricted dollars (Fund 00164).",
+  "department" : "Seattle Center",
+  "_2014_expenditure_allowance" : "30000",
+  "fund" : "Cumulative Reserve Subfund - Unrestricted Subaccount (00164)",
+  "bcl_name" : "Campuswide Improvements and Repairs (00164-CIP)"
+}
+, {
+  "bcl_code" : "S9403",
+  "bcl_purpose" : "The purpose of the Monorail Improvements Budget Control Level (BCL) is to provide for the renovation of the Seattle Center Monorail, including the two trains, the two stations and the guideways that run in between. This BCL is funded by CRS Unrestricted dollars (Fund 00164).",
+  "department" : "Seattle Center",
+  "_2014_expenditure_allowance" : "1317000",
+  "fund" : "Cumulative Reserve Subfund - Unrestricted Subaccount (00164)",
+  "bcl_name" : "Monorail Improvements (00164-CIP)"
+}
+, {
+  "bcl_code" : "S9902",
+  "bcl_purpose" : "The purpose of the Public Gathering Space Improvements Budget Control Level (BCL) is to provide for major maintenance and improvements to meeting rooms, exhibition spaces, and public gathering spaces at Seattle Center. This BCL is funded by CRS Unrestricted dollars (Fund 00164).",
+  "department" : "Seattle Center",
+  "_2014_expenditure_allowance" : "90000",
+  "fund" : "Cumulative Reserve Subfund - Unrestricted Subaccount (00164)",
+  "bcl_name" : "Public Gathering Space Improvements (00164-CIP)"
+}
+, {
+  "bcl_code" : "CRS-U-SDOT",
+  "bcl_purpose" : "The purpose of the CRS-U Support to Transportation Budget Control Level is to appropriate funds from CRS Unrestricted Sub-account to the Transportation Operating Fund to support specific capital programs and pay debt service on specified transportation projects.",
+  "department" : "Seattle Department of Transportation",
+  "_2014_expenditure_allowance" : "3004500",
+  "fund" : "Cumulative Reserve Subfund - Unrestricted Subaccount (00164)",
+  "bcl_name" : "CRS-U Support to Transportation"
+}
+, {
+  "bcl_code" : "2IN00",
+  "bcl_purpose" : "The purpose of the Neighborhood Matching Fund Budget Control Level is to support local grassroots projects within neighborhoods and communities. The Neighborhood Matching Fund provides funding to match community contributions of volunteer labor, donated professional services and materials, or cash, to implement community-basedself-help projects.",
+  "department" : "Department of Neighborhoods",
+  "_2014_expenditure_allowance" : "3292698",
+  "fund" : "Neighborhood Matching Subfund (00165)",
+  "bcl_name" : "Neighborhood Matching Fund"
+}
+, {
+  "bcl_code" : "A1AP1",
+  "bcl_purpose" : "The purpose of the Asset Preservation - Civic Core Budget Control Level (BCL) is to replace components of Civic Core buildings at the end of their useful lives. This BCL is funded by CRS Asset Preservation Subaccount - Fleets and Facilities dollars (Fund 00168).",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "800000",
+  "fund" : "Cumulative Reserve Subfund, Asset Preservation Subaccount - Fleets and Facilities (00168)",
+  "bcl_name" : "Asset Preservation - Civic Core (00168-CIP)"
+}
+, {
+  "bcl_code" : "A1AP2",
+  "bcl_purpose" : "The purpose of the Asset Preservation - Seattle Municipal Tower Budget Control Level (BCL) is to replace components of the Seattle Municipal Tower at the end of their useful lives. This BCL is funded by CRS Asset Preservation Subaccount - Fleets and Facilities dollars (Fund 00168).",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "1800000",
+  "fund" : "Cumulative Reserve Subfund, Asset Preservation Subaccount - Fleets and Facilities (00168)",
+  "bcl_name" : "Asset Preservation - Seattle Municipal Tower (00168- CIP)"
+}
+, {
+  "bcl_code" : "A1AP4",
+  "bcl_purpose" : "The purpose of the Asset Preservation - Shops and Yards Budget Control Level (BCL) is to replace components of shop and yard facilities at the end of their useful lives. This BCL is funded by CRS Asset Preservation Subaccount - Fleets and Facilities dollars (Fund 00168).",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "800000",
+  "fund" : "Cumulative Reserve Subfund, Asset Preservation Subaccount - Fleets and Facilities (00168)",
+  "bcl_name" : "Asset Preservation - Shops and Yards (00168-CIP)"
+}
+, {
+  "bcl_code" : "A1AP6",
+  "bcl_purpose" : "The purpose of the Asset Preservation - Public Safety Facilities Budget Control Level (BCL) is to replace components of public safety facilities at the end of their useful lives. This BCL is funded by CRS Asset Preservation Subaccount - Fleets and Facilities dollars (Fund 00168).",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "400000",
+  "fund" : "Cumulative Reserve Subfund, Asset Preservation Subaccount - Fleets and Facilities (00168)",
+  "bcl_name" : "Asset Preservation - Public Safety Facilities (00168- CIP)"
+}
+, {
+  "bcl_code" : "TRANSITB1",
+  "bcl_purpose" : "The purpose of the Transit Benefit Budget Control Level is to pay for the transit benefits offered to City employees. The Transit Benefit Subfund receives payments from Finance General and fee supported departments to pay for reduced cost King County Metro and Washington State Ferry transit passes and related administrative expenses.",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "5400000",
+  "fund" : "Transit Benefit Subfund (00410)",
+  "bcl_name" : "Transit Benefit"
+}
+, {
+  "bcl_code" : "NT000",
+  "bcl_purpose" : "The purpose of the Special Employment Budget Control Level is to capture the expenditures associated with outside agency use of the City's temporary, intern, and work study programs. Outside agencies reimburse the City for costs. Expenses related to employees hired by City departments through the Special Employment Program are charged directly to the departments.",
+  "department" : "Personnel Department",
+  "_2014_expenditure_allowance" : "200000",
+  "fund" : "Special Employment Program Subfund (00515)",
+  "bcl_name" : "Special Employment"
+}
+, {
+  "bcl_code" : "NR500",
+  "bcl_purpose" : "The purpose of the Industrial Insurance Budget Control Level is to provide for medical, wage replacement, pension and disability claims related to occupational injuries and illnesses, occupational medical monitoring, workplace safety programs, and related expenses. Since 1972, the City of Seattle has been a self-insured employer as authorized under state law. The Industrial Insurance Subfund receives payments from City departments to pay for these costs and related administrative expenses.",
+  "department" : "Personnel Department",
+  "_2014_expenditure_allowance" : "19171000",
+  "fund" : "Industrial Insurance Subfund (00516)",
+  "bcl_name" : "Industrial Insurance"
+}
+, {
+  "bcl_code" : "NS000",
+  "bcl_purpose" : "The purpose of the Unemployment Insurance Budget Control Level is to provide the budget authority for the City to pay unemployment compensation expenses. The City is a self-insured employer with respect to unemployment insurance. The Unemployment Insurance Subfund contains the revenues and expenditures associated with the City's unemployment benefit costs for employees.",
+  "department" : "Personnel Department",
+  "_2014_expenditure_allowance" : "1001269",
+  "fund" : "Unemployment Insurance Subfunds (00517)",
+  "bcl_name" : "Unemployment Insurance"
+}
+, {
+  "bcl_code" : "NM000",
+  "bcl_purpose" : "The purpose of the Health Care Budget Control Level is to provide for the City's medical, dental, and vision insurance programs; the Flexible Spending Account; the Employee Assistance Program; and COBRA continuation coverage costs. The City is self-insured and re-insured for some medical plans, and carries insurance for other medical plans and for all dental and vision plans.",
+  "department" : "Personnel Department",
+  "_2014_expenditure_allowance" : "175209976",
+  "fund" : "Health Care Subfund (00627)",
+  "bcl_name" : "Health Care"
+}
+, {
+  "bcl_code" : "NA000",
+  "bcl_purpose" : "The purpose of the Group Term Life Budget Control Level is to provide appropriation authority for the City's group term life insurance, long-term disability insurance, and accidental death and dismemberment insurance.",
+  "department" : "Personnel Department",
+  "_2014_expenditure_allowance" : "6234566",
+  "fund" : "Group Term Life Insurance Subfund (00628)",
+  "bcl_name" : "Group Term Life"
+}
+, {
+  "bcl_code" : "K310C",
+  "bcl_purpose" : "The purpose of the Swimming, Boating, and Aquatics Budget Control Level is to provide a variety of structured and unstructured water-related programs and classes so participants can enjoy and develop skills in a range of aquatic activities.",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "9448624",
+  "fund" : "Park and Recreation Fund (10200)",
+  "bcl_name" : "Swimming, Boating, and Aquatics"
+}
+, {
+  "bcl_code" : "K310D",
+  "bcl_purpose" : "The purpose of the Recreation Facilities and Programs Budget Control Level is to manage and staff the City's neighborhood community centers and Citywide recreation facilities and programs, which allow Seattle residents to enjoy a variety of social, athletic, cultural, and recreational activities.",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "23290127",
+  "fund" : "Park and Recreation Fund (10200)",
+  "bcl_name" : "Recreation Facilities and Programs"
+}
+, {
+  "bcl_code" : "K320A",
+  "bcl_purpose" : "The purpose of the Facility and Structure Maintenance Budget Control Level is to repair and maintain park buildings and infrastructure.",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "15200447",
+  "fund" : "Park and Recreation Fund (10200)",
+  "bcl_name" : "Facility and Structure Maintenance"
+}
+, {
+  "bcl_code" : "K320B",
+  "bcl_purpose" : "The purpose of the Park Cleaning, Landscaping, and Restoration Budget Control Level is to provide custodial, landscape, and forest maintenance and restoration services.",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "30537538",
+  "fund" : "Park and Recreation Fund (10200)",
+  "bcl_name" : "Park Cleaning, Landscaping, and Restoration"
+}
+, {
+  "bcl_code" : "K320C",
+  "bcl_purpose" : "The purpose of the Seattle Conservation Corps Budget Control Level is to provide training, counseling, and employment to homeless and unemployed people with the goal that they acquire skills and experience leading to long-term employment and stability.",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "4051179",
+  "fund" : "Park and Recreation Fund (10200)",
+  "bcl_name" : "Seattle Conservation Corps"
+}
+, {
+  "bcl_code" : "K350A",
+  "bcl_purpose" : "The purpose of the Seattle Aquarium Budget Control Level is to provide exhibits and environmental educational opportunities with the goal of expanding knowledge of, inspiring interest in, and encouraging stewardship of the aquatic wildlife and habitats of Puget Sound and the Pacific Northwest.",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "3460177",
+  "fund" : "Park and Recreation Fund (10200)",
+  "bcl_name" : "Seattle Aquarium"
+}
+, {
+  "bcl_code" : "K350B",
+  "bcl_purpose" : "The purpose of the Woodland Park Zoo Budget Control Level is to provide funds to contract with the non-profit Woodland Park Zoological Society to operate and manage the Woodland Park Zoo. This BCL includes the City's support for Zoo operations. The purpose of the Zoo is to provide care for animals and offer exhibits, educational programs, and visitor amenities so Seattle residents and visitors have the opportunity to enjoy and learn about animals and wildlife conservation.",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "6820029",
+  "fund" : "Park and Recreation Fund (10200)",
+  "bcl_name" : "Woodland Park Zoo"
+}
+, {
+  "bcl_code" : "K370C",
+  "bcl_purpose" : "The purpose of the Planning, Development, and Acquisition Budget Control Level (BCL) is to acquire, plan, design, and develop new park facilities, and make improvements to existing park facilities to benefit the public. This effort includes providing engineering and other technical services to solve maintenance and operational problems. This BCL also preserves open spaces through a combination of direct purchases, transfers, and consolidations of City-owned lands and resolution of property encroachment issues.",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "6193818",
+  "fund" : "Park and Recreation Fund (10200)",
+  "bcl_name" : "Planning, Development, and Acquisition"
+}
+, {
+  "bcl_code" : "K380A",
+  "bcl_purpose" : "The Judgment and Claims Budget Control Level pays for judgments, settlements, claims, and other eligible expenses associated with legal claims and suits against the City. Premiums are based on average percentage of Judgment/ Claims expenses incurred by the Department over the previous five years.",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "652212",
+  "fund" : "Park and Recreation Fund (10200)",
+  "bcl_name" : "Judgment and Claims"
+}
+, {
+  "bcl_code" : "K390A",
+  "bcl_purpose" : "The purpose of the Finance and Administration Budget Control Level is to provide the financial, technological, and business development support for the Department.",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "8247208",
+  "fund" : "Park and Recreation Fund (10200)",
+  "bcl_name" : "Finance and Administration"
+}
+, {
+  "bcl_code" : "K390B",
+  "bcl_purpose" : "The purpose of the Policy Direction and Leadership Budget Control Level is to provide policy guidance within the Department and outreach to the community on policies that have the goal of enabling the Department to offer outstanding parks and recreation opportunities to Seattle residents and our guests. It also provides leadership in establishing new partnerships or strengthening existing ones in order expand recreation services.",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "6944151",
+  "fund" : "Park and Recreation Fund (10200)",
+  "bcl_name" : "Policy Direction and Leadership"
+}
+, {
+  "bcl_code" : "K400A",
+  "bcl_purpose" : "The purpose of the Golf Budget Control Level is to manage the City's four golf courses at Jackson, Jefferson, West Seattle, and Interbay to provide top-quality public golf courses that maximize earned revenues.",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "11173584",
+  "fund" : "Park and Recreation Fund (10200)",
+  "bcl_name" : "Golf"
+}
+, {
+  "bcl_code" : "K430A",
+  "bcl_purpose" : "The purpose of the Environmental Learning and Programs Budget Control Level is to deliver and manage environmental stewardship programs and the City's environmental education centers at Discovery Park, Carkeek Park, Seward Park, and Camp Long. The programs are designed to encourage Seattle residents to take actions that respect the rights of all living things and environments, and to contribute to healthy and livable communities.",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "1648180",
+  "fund" : "Park and Recreation Fund (10200)",
+  "bcl_name" : "Environmental Learning and Programs"
+}
+, {
+  "bcl_code" : "K430B",
+  "bcl_purpose" : "The purpose of the Natural Resources Management Budget Control Level is to provide centralized management for the living assets of the Department of Parks and Recreation. Direct management responsibilities include greenhouses, nurseries, the Volunteer Park Conservatory, landscape and urban forest restoration programs, sport field turf management, water conservation programs, pesticide reduction and wildlife management, and heavy equipment support for departmental operations and capital projects.",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "7170301",
+  "fund" : "Park and Recreation Fund (10200)",
+  "bcl_name" : "Natural Resources Management"
+}
+, {
+  "bcl_code" : "17001",
+  "bcl_purpose" : "The purpose of the Bridges and Structures Budget Control Level is to maintain the City's bridges and structures which helps provide for the safe and efficient movement of people, goods and services throughout the city.",
+  "department" : "Seattle Department of Transportation",
+  "_2014_expenditure_allowance" : "7718831",
+  "fund" : "Transportation Operating Fund (10310)",
+  "bcl_name" : "Bridges & Structures"
+}
+, {
+  "bcl_code" : "17002",
+  "bcl_purpose" : "The purpose of the Engineering Services Budget Control Level is to provide construction management for capital projects, engineering support for street vacations, the scoping of neighborhood projects, and other transportation activities requiring transportation engineering and project management expertise.",
+  "department" : "Seattle Department of Transportation",
+  "_2014_expenditure_allowance" : "2155438",
+  "fund" : "Transportation Operating Fund (10310)",
+  "bcl_name" : "Engineering Services"
+}
+, {
+  "bcl_code" : "17003",
+  "bcl_purpose" : "The purpose of the Mobility-Operations Budget Control level is to promote the safe and efficient operation of all transportation modes in the city. This includes managing the parking, pedestrian, and bicycle infrastructure; implementing neighborhood plans; encouraging alternative modes of transportation; and maintaining and improving signals and the non-electrical transportation management infrastructure.",
+  "department" : "Seattle Department of Transportation",
+  "_2014_expenditure_allowance" : "36371845",
+  "fund" : "Transportation Operating Fund (10310)",
+  "bcl_name" : "Mobility-Operations"
+}
+, {
+  "bcl_code" : "17004",
+  "bcl_purpose" : "The purpose of the Right-of-Way (ROW) Management Budget Control Level is to review projects throughout the city for code compliance for uses of the right-of-way and to provide plan review, utility permit and street use permit issuance, and utility inspection and mapping services.",
+  "department" : "Seattle Department of Transportation",
+  "_2014_expenditure_allowance" : "13623961",
+  "fund" : "Transportation Operating Fund (10310)",
+  "bcl_name" : "ROW Management"
+}
+, {
+  "bcl_code" : "17005",
+  "bcl_purpose" : "The purpose of the Street Maintenance Budget Control Level is to maintain the city's roadways and sidewalks. ",
+  "department" : "Seattle Department of Transportation",
+  "_2014_expenditure_allowance" : "23611175",
+  "fund" : "Transportation Operating Fund (10310)",
+  "bcl_name" : "Street Maintenance"
+}
+, {
+  "bcl_code" : "17006",
+  "bcl_purpose" : "The purpose of the Urban Forestry Budget Control Level is to administer, maintain, protect and expand the city's urban landscape in the street right-of-way through the maintenance and planting of new trees and landscaping to enhance the environment and aesthetics of the city. The Urban Forestry BCL maintains City-owned trees to improve the safety of the right-of-way for Seattle's residents and visitors.",
+  "department" : "Seattle Department of Transportation",
+  "_2014_expenditure_allowance" : "4757205",
+  "fund" : "Transportation Operating Fund (10310)",
+  "bcl_name" : "Urban Forestry"
+}
+, {
+  "bcl_code" : "18001",
+  "bcl_purpose" : "The purpose of the Department Management Budget Control Level is to provide leadership and operations support services to accomplish the mission and goals of the department.",
+  "department" : "Seattle Department of Transportation",
+  "_2014_expenditure_allowance" : "1233027",
+  "fund" : "Transportation Operating Fund (10310)",
+  "bcl_name" : "Department Management"
+}
+, {
+  "bcl_code" : "18002",
+  "bcl_purpose" : "The purpose of the General Expense Budget Control Level is to account for certain City business expenses necessary to the overall delivery of transportation services. Money from all transportation funding sources is collected to pay for these indirect cost services. It also includes Judgment and Claims contributions and debt service payments.",
+  "department" : "Seattle Department of Transportation",
+  "_2014_expenditure_allowance" : "34434728",
+  "fund" : "Transportation Operating Fund (10310)",
+  "bcl_name" : "General Expense"
+}
+, {
+  "bcl_code" : "19001",
+  "bcl_purpose" : "The purpose of the Major Maintenance/ Replacement Budget Control Level is to provide maintenance and replacement of roads, trails, bike paths, bridges and structures.",
+  "department" : "Seattle Department of Transportation",
+  "_2014_expenditure_allowance" : "50913999",
+  "fund" : "Transportation Operating Fund (10310)",
+  "bcl_name" : "Major Maintenance/ Replacement"
+}
+, {
+  "bcl_code" : "19002",
+  "bcl_purpose" : "The purpose of the Major Projects Budget Control Level is to design, manage and construct improvements to the transportation infrastructure for the benefit of the traveling public including freight, transit, other public agencies, pedestrians, bicyclists and motorists.",
+  "department" : "Seattle Department of Transportation",
+  "_2014_expenditure_allowance" : "195968519",
+  "fund" : "Transportation Operating Fund (10310)",
+  "bcl_name" : "Major Projects"
+}
+, {
+  "bcl_code" : "19003",
+  "bcl_purpose" : "The purpose of the Mobility-Capital Budget Control Level is to help maximize the movement of traffic throughout the city by enhancing all modes of transportation including corridor and intersection improvements, transit and HOV improvements, and sidewalk and pedestrian facilities.",
+  "department" : "Seattle Department of Transportation",
+  "_2014_expenditure_allowance" : "21191999",
+  "fund" : "Transportation Operating Fund (10310)",
+  "bcl_name" : "Mobility-Capital"
+}
+, {
+  "bcl_code" : "B1ADM",
+  "bcl_purpose" : "The purpose of the Administrative Services Program is to support the delivery of library services to the public.",
+  "department" : "The Seattle Public Library",
+  "_2014_expenditure_allowance" : "11404244",
+  "fund" : "Library Fund (10410)",
+  "bcl_name" : "Administrative Services"
+}
+, {
+  "bcl_code" : "B2CTL",
+  "bcl_purpose" : "The purpose of the City Librarian's Office is to provide leadership for the Library in the implementation of policies and strategic directions set by the Library Board of Trustees.",
+  "department" : "The Seattle Public Library",
+  "_2014_expenditure_allowance" : "1039300",
+  "fund" : "Library Fund (10410)",
+  "bcl_name" : "City Librarian's Office"
+}
+, {
+  "bcl_code" : "B3CTS",
+  "bcl_purpose" : "The purpose of Information Technology is to provide data processing infrastructure and services.",
+  "department" : "The Seattle Public Library",
+  "_2014_expenditure_allowance" : "4907954",
+  "fund" : "Library Fund (10410)",
+  "bcl_name" : "Information Technology"
+}
+, {
+  "bcl_code" : "B4PUB",
+  "bcl_purpose" : "The purpose of the Library Services Division is to provide services, materials, and programs that benefit and are valued by Library patrons. Library Services provides technical and collection services in order to provide information access and Library materials to all patrons.",
+  "department" : "The Seattle Public Library",
+  "_2014_expenditure_allowance" : "46806382",
+  "fund" : "Library Fund (10410)",
+  "bcl_name" : "Library Services"
+}
+, {
+  "bcl_code" : "B5HRS",
+  "bcl_purpose" : "The purpose of Human Resources is to provide responsive and equitable services, including human resources policy development, recruitment, classification and compensation, payroll, labor and employee relations, volunteer services, and staff training services.",
+  "department" : "The Seattle Public Library",
+  "_2014_expenditure_allowance" : "1110902",
+  "fund" : "Library Fund (10410)",
+  "bcl_name" : "Human Resources"
+}
+, {
+  "bcl_code" : "STCAR-OPER",
+  "bcl_purpose" : "The purpose of the Streetcar Operations Budget Control Level is to operate and maintain the South Lake Union line of the Seattle Streetcar.",
+  "department" : "Seattle Department of Transportation",
+  "_2014_expenditure_allowance" : "5736749",
+  "fund" : "Streetcar Fund (10810)",
+  "bcl_name" : "Streetcar Operations"
+}
+, {
+  "bcl_code" : "PKLVYBCL-02",
+  "bcl_purpose" : "The purpose of the Pike Place Market Renovation Debt Service Budget Control Level is to pay debt service for debt issued in support of the Pike Place Market Renovation funded by levy proceeds.",
+  "department" : "Executive",
+  "_2014_expenditure_allowance" : "8951750",
+  "fund" : "Pike Place Levy (11010)",
+  "bcl_name" : "Pike Place Market Renovation Debt Service"
+}
+, {
+  "bcl_code" : "SC600",
+  "bcl_purpose" : "The purpose of the Campus Grounds Budget Control Level is to provide gathering spaces and open-air venues in the City's urban core. Program services include landscape maintenance, security patrols and lighting, litter and garbage removal, recycling operations, hard surface and site amenities maintenance, and management of revenues associated with leasing outdoor spaces.",
+  "department" : "Seattle Center",
+  "_2014_expenditure_allowance" : "12045194",
+  "fund" : "Seattle Center Fund (11410)",
+  "bcl_name" : "Campus Grounds"
+}
+, {
+  "bcl_code" : "SC610",
+  "bcl_purpose" : "The purpose of the Festivals Budget Control Level is to provide a place for the community to hold major festival celebrations. This program includes the revenue and expenses related to the Giant Magnet, Northwest Folklife Festival, Bite of Seattle, and Bumbershoot events.",
+  "department" : "Seattle Center",
+  "_2014_expenditure_allowance" : "1505509",
+  "fund" : "Seattle Center Fund (11410)",
+  "bcl_name" : "Festivals"
+}
+, {
+  "bcl_code" : "SC620",
+  "bcl_purpose" : "The purpose of the Community Programs Budget Control Level is to produce free and low-cost programs that connect diverse cultures, create learning opportunities, honor community traditions, and nurture artistry and creativity.",
+  "department" : "Seattle Center",
+  "_2014_expenditure_allowance" : "2078338",
+  "fund" : "Seattle Center Fund (11410)",
+  "bcl_name" : "Community Programs"
+}
+, {
+  "bcl_code" : "SC630",
+  "bcl_purpose" : "The purpose of the Cultural Facilities Budget Control Level is to provide spaces for performing arts and cultural organizations to exhibit, perform, entertain, and create learning opportunities for diverse local, national, and international audiences.",
+  "department" : "Seattle Center",
+  "_2014_expenditure_allowance" : "229145",
+  "fund" : "Seattle Center Fund (11410)",
+  "bcl_name" : "Cultural Facilities"
+}
+, {
+  "bcl_code" : "SC640",
+  "bcl_purpose" : "The purpose of the Commercial Events Budget Control Level is to provide the spaces and services needed to host a wide variety of commercial events, both for profit and not for profit, sponsored and produced by private and community promoters.",
+  "department" : "Seattle Center",
+  "_2014_expenditure_allowance" : "946293",
+  "fund" : "Seattle Center Fund (11410)",
+  "bcl_name" : "Commercial Events"
+}
+, {
+  "bcl_code" : "SC650",
+  "bcl_purpose" : "The McCaw Hall Budget Control Level includes funds for the operation and maintenance of the McCaw Hall. In cooperation with Seattle Opera and Pacific Northwest Ballet, Seattle Center manages and operates McCaw Hall as the home of the Opera and Ballet. The Seattle International Film Festival also holds its annual festival and many other film screenings in this facility.",
+  "department" : "Seattle Center",
+  "_2014_expenditure_allowance" : "4207416",
+  "fund" : "Seattle Center Fund (11410)",
+  "bcl_name" : "McCaw Hall"
+}
+, {
+  "bcl_code" : "SC660",
+  "bcl_purpose" : "The purpose of the KeyArena Budget Control Level is to manage and operate the KeyArena. Included in this category are all operations related to sports teams playing in the arena, along with concerts, family shows, and private meetings.",
+  "department" : "Seattle Center",
+  "_2014_expenditure_allowance" : "6613284",
+  "fund" : "Seattle Center Fund (11410)",
+  "bcl_name" : "KeyArena"
+}
+, {
+  "bcl_code" : "SC670",
+  "bcl_purpose" : "The purpose of the Access Budget Control Level is to provide the services needed to assist visitors in coming to and traveling from the campus, while reducing congestion in adjoining neighborhoods. Program services include operating parking services, maintaining parking garages, managing the Seattle Center Monorail, and encouraging use of alternate modes of transportation.",
+  "department" : "Seattle Center",
+  "_2014_expenditure_allowance" : "1249106",
+  "fund" : "Seattle Center Fund (11410)",
+  "bcl_name" : "Access"
+}
+, {
+  "bcl_code" : "SC680",
+  "bcl_purpose" : "The purpose of the Debt Budget Control Level is to provide payments and collect associated revenues related to the debt service for McCaw Hall.",
+  "department" : "Seattle Center",
+  "_2014_expenditure_allowance" : "126450",
+  "fund" : "Seattle Center Fund (11410)",
+  "bcl_name" : "Debt"
+}
+, {
+  "bcl_code" : "SC690",
+  "bcl_purpose" : "The purpose of the Administration Budget Control Level is to provide the financial, human resource, technology, and business support necessary for delivery of the department's services. Program services include administrative oversight and support to all other department programs, financial management of the Department's operating funds, and management of the department's Capital Improvement Program.",
+  "department" : "Seattle Center",
+  "_2014_expenditure_allowance" : "7170262",
+  "fund" : "Seattle Center Fund (11410)",
+  "bcl_name" : "Administration-SC"
+}
+, {
+  "bcl_code" : "SC710",
+  "bcl_purpose" : "The Judgment/ Claims Budget Control Level pays for judgments, settlements, claims, and other eligible expenses associated with legal claims and suits against the City. Premiums are based on average percentage of Judgment/ Claims expenses incurred by the Department over the previous five years.",
+  "department" : "Seattle Center",
+  "_2014_expenditure_allowance" : "702856",
+  "fund" : "Seattle Center Fund (11410)",
+  "bcl_name" : "Judgment and Claims"
+}
+, {
+  "bcl_code" : "U2200",
+  "bcl_purpose" : "The purpose of the Land Use Services Budget Control Level is to provide land use permitting services to project applicants, City of Seattle departments, public agencies, and residents. These services are intended to allow development proposals to be reviewed in a fair, reasonable, efficient, and predictable manner, and substantially comply with applicable codes, legal requirements, policies, and community design standards. Additionally, this budget control level includes the allocation of a proportionate share of departmental administration and other overhead costs.",
+  "department" : "Department of Planning and Development",
+  "_2014_expenditure_allowance" : "4851923",
+  "fund" : "Planning and Development Fund (15700)",
+  "bcl_name" : "Land Use Services"
+}
+, {
+  "bcl_code" : "U2300",
+  "bcl_purpose" : "The purpose of the Construction Permit Services Budget Control Level is to facilitate the review of development plans and processing of permits so that applicants can plan, alter, construct, occupy, and maintain Seattle's buildings and property. Additionally, this budget control level includes the allocation of a proportionate share of departmental administration and other overhead costs.",
+  "department" : "Department of Planning and Development",
+  "_2014_expenditure_allowance" : "19928691",
+  "fund" : "Planning and Development Fund (15700)",
+  "bcl_name" : "Construction Permit Services"
+}
+, {
+  "bcl_code" : "U23A0",
+  "bcl_purpose" : "The purpose of the Construction Inspections Budget Control Level is to provide on-site inspections of property under development to support substantial compliance with applicable City codes, ordinances, and approved plans. Additionally, this budget control level includes the allocation of a proportionate share of departmental administration and other overhead costs.",
+  "department" : "Department of Planning and Development",
+  "_2014_expenditure_allowance" : "14547159",
+  "fund" : "Planning and Development Fund (15700)",
+  "bcl_name" : "Construction Inspections"
+}
+, {
+  "bcl_code" : "U2400",
+  "bcl_purpose" : "The purpose of the Code Compliance Budget Control Level is to see that properties and buildings are used and maintained in conformance with code standards, and deterioration of structures and properties is reduced. Additionally, this budget control level includes the allocation of a proportionate share of departmental administration and other overhead costs.",
+  "department" : "Department of Planning and Development",
+  "_2014_expenditure_allowance" : "4849027",
+  "fund" : "Planning and Development Fund (15700)",
+  "bcl_name" : "Code Compliance"
+}
+, {
+  "bcl_code" : "U24A0",
+  "bcl_purpose" : "The purpose of the Annual Certification and Inspection Budget Control Level is to provide inspections of mechanical equipment at installation and on an annual or biennial cycle. These services are provided so mechanical equipment is substantially maintained to applicable codes, legal requirements and policies, and operated safely. The program also certifies that installers and mechanics are qualified, by validation of work experience and testing of code knowledge, to operate and maintain mechanical equipment. In addition, this budget control level includes a proportionate share of associated departmental administration and other overhead costs.",
+  "department" : "Department of Planning and Development",
+  "_2014_expenditure_allowance" : "4159482",
+  "fund" : "Planning and Development Fund (15700)",
+  "bcl_name" : "Annual Certification and Inspection"
+}
+, {
+  "bcl_code" : "U2800",
+  "bcl_purpose" : "The purpose of the Process Improvements and Technology Budget Control Level is to allow the department to plan and implement continuous improvements to its business processes, including related staff training and equipment purchases; and to see that the Department's major technology investments are maintained, upgraded, or replaced when necessary.",
+  "department" : "Department of Planning and Development",
+  "_2014_expenditure_allowance" : "2095009",
+  "fund" : "Planning and Development Fund (15700)",
+  "bcl_name" : "Process Improvements and Technology"
+}
+, {
+  "bcl_code" : "U2900",
+  "bcl_purpose" : "The purpose of the Planning Budget Control Level is to manage growth and development consistent with Seattle's Comprehensive Plan, and to inform and guide decisions related to the Plan. Additionally, the Planning Budget Control Level includes the allocation of a proportionate share of departmental administration and other overhead costs.",
+  "department" : "Department of Planning and Development",
+  "_2014_expenditure_allowance" : "6416007",
+  "fund" : "Planning and Development Fund (15700)",
+  "bcl_name" : "Planning"
+}
+, {
+  "bcl_code" : "H20YF",
+  "bcl_purpose" : "The purpose of the Youth and Family Empowerment Budget Control Level is to provide children, youth and families with the skills, knowledge, and support they need to live healthy and productive lives, including access to affordable, culturally relevant, high-quality child care and pre-school education, out-of-school time activities, nutrition assistance, and programs designed to help youth succeed academically, learn job and life skills, and develop alternatives to criminal activity, violence, and homelessness.",
+  "department" : "Human Services Department",
+  "_2014_expenditure_allowance" : "21021969",
+  "fund" : "Human Services Operating Fund (16200)",
+  "bcl_name" : "Youth and Family Empowerment"
+}
+, {
+  "bcl_code" : "H30ET",
+  "bcl_purpose" : "The purpose of the Transitional Living and Support Budget Control Level (formerly Emergency and Transitional Services) is to provide resources and services to Seattle's low-income and homeless residents, work to prevent and end homelessness, and reduce hunger by funding shelter, housing, food and meal programs for individuals and families with very low-incomes.",
+  "department" : "Human Services Department",
+  "_2014_expenditure_allowance" : "30380335",
+  "fund" : "Human Services Operating Fund (16200)",
+  "bcl_name" : "Transitional Living and Support"
+}
+, {
+  "bcl_code" : "H50LA",
+  "bcl_purpose" : "The purpose of the Leadership and Administration Budget Control Level is to provide leadership and support to the Human Services Department, the City of Seattle, and the community, with the goal of seeing that human services are responsive to community needs, are delivered through effective and accountable systems, economic disparity is decreased, and racism and other oppressions are dismantled.",
+  "department" : "Human Services Department",
+  "_2014_expenditure_allowance" : "9232199",
+  "fund" : "Human Services Operating Fund (16200)",
+  "bcl_name" : "Leadership and Administration"
+}
+, {
+  "bcl_code" : "H60AD",
+  "bcl_purpose" : "The purpose of the Aging and Disability Services - Area Agency on Aging Budget Control Level is to provide a network of community support that improves choice, promotes independence, and enhances the quality of life for older people and adults with disabilities. ",
+  "department" : "Human Services Department",
+  "_2014_expenditure_allowance" : "36333735",
+  "fund" : "Human Services Operating Fund (16200)",
+  "bcl_name" : "Aging and Disability Services - Area Agency on Aging"
+}
+, {
+  "bcl_code" : "H70PH",
+  "bcl_purpose" : "The purpose of the Public Health Services Budget Control Level is to provide funds for the following public health services and programs: primary care medical, dental, and specialty services, and access to health insurance for at-risk and vulnerable populations; health care for teens in Seattle's public schools; health care for homeless individuals and families; HIV/ AIDS prevention and care programs; programs to provide access to chemical and dependency services; programs to reduce the disparities in health among the Seattle population; and public health nursing care home visits to give mothers and babies a healthy start in life. ",
+  "department" : "Human Services Department",
+  "_2014_expenditure_allowance" : "13608754",
+  "fund" : "Human Services Operating Fund (16200)",
+  "bcl_name" : "Public Health Services"
+}
+, {
+  "bcl_code" : "H90CS",
+  "bcl_purpose" : "The purpose of the Community Support and Self-Sufficiency Budget Control Level (BCL) is to provide Seattle families with nutrition assistance, citizenship assistance, access to public benefits, and other family support resources so that families can maintain or achieve economic self-sufficiency and children will gain the necessary skills and assets to be healthy, successful in school, and contributing members of the community. The BCL also supports the City's response to domestic violence and sexual assault prevention programs.",
+  "department" : "Human Services Department",
+  "_2014_expenditure_allowance" : "11105623",
+  "fund" : "Human Services Operating Fund (16200)",
+  "bcl_name" : "Community Support and Self Sufficiency"
+}
+, {
+  "bcl_code" : "XZ-R1",
+  "bcl_purpose" : "The purpose of the Low-Income Housing Fund 16400 Budget Control Level is to fund multifamily housing production, and to support homeownership and sustainability.",
+  "department" : "Executive",
+  "_2014_expenditure_allowance" : "43092788",
+  "fund" : "Low-Income Housing Fund (16400)",
+  "bcl_name" : "Low-Income Housing Fund 16400"
+}
+, {
+  "bcl_code" : "XZ600",
+  "bcl_purpose" : "The purpose of the Office of Housing Operating Fund 16600 Budget Control Level is to fund the Department's administration activities.",
+  "department" : "Executive",
+  "_2014_expenditure_allowance" : "4900613",
+  "fund" : "Office of Housing (16600)",
+  "bcl_name" : "Office of Housing Operating Fund 16600"
+}
+, {
+  "bcl_code" : "K72441",
+  "bcl_purpose" : "The purpose of the Parks Infrastructure Budget Control Level (BCL) is to provide for the rehabilitation, replacement and addition of Parks infrastructure. This BCL is funded by Community Development Block Grant dollars (Fund 17810).",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "808000",
+  "fund" : "Community Development Block Grant Fund",
+  "bcl_name" : "Parks Infrastructure (17810-CIP)"
+}
+, {
+  "bcl_code" : "K72444",
+  "bcl_purpose" : "The purpose of the Building Component Renovations Budget Control Level (BCL) is to rehabilitate and replace Parks and Recreation's buildings and their components. For 2014, Federal Community Development Block Grant funds are partly funding programs within this BCL.",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "732000",
+  "fund" : "Community Development Block Grant Fund",
+  "bcl_name" : "Building Component Renovations (17810-CIP)"
+}
+, {
+  "bcl_code" : "6XD10",
+  "bcl_purpose" : "The purpose of the Community Development Block Grant (CDBG) - Office of Economic Development Budget Control Level is to provide operating, grant, loan, and project management support to neighborhood business districts and community-based development organizations, as well as for special projects, for the goal of creating thriving neighborhoods and broadly-shared prosperity.",
+  "department" : "Executive",
+  "_2014_expenditure_allowance" : "1208675",
+  "fund" : "Community Development Block Grant Fund",
+  "bcl_name" : "CDBG - Office of Economic Development"
+}
+, {
+  "bcl_code" : "6XZ10",
+  "bcl_purpose" : "The purpose of the Community Development Block Grant (CDBG) - Office of Housing Budget Control Level is to provide opportunities for residents to thrive by investing in and promoting the development and preservation of affordable housing.",
+  "department" : "Executive",
+  "_2014_expenditure_allowance" : "1959680",
+  "fund" : "Community Development Block Grant Fund",
+  "bcl_name" : "CDBG - Office of Housing"
+}
+, {
+  "bcl_code" : "6HSD10",
+  "bcl_purpose" : "The purpose of the Community Development Block Grant (CDBG) - Human Services Department Budget Control Level is to find and fund solutions for human needs to assist low-income and vulnerable residents in greater Seattle to live and thrive.",
+  "department" : "Human Services Department",
+  "_2014_expenditure_allowance" : "5291088",
+  "fund" : "Community Development Block Grant Fund",
+  "bcl_name" : "CDBG - Human Services Department"
+}
+, {
+  "bcl_code" : "IL102",
+  "bcl_purpose" : "The purpose of the Early Learning and School Readiness Budget Control Level is to help children enter Seattle's schools ready to learn by increasing access for low-income families to higher quality and more extensive educational child care, and expanding the number of current early childhood education programs.",
+  "department" : "Department of Neighborhoods",
+  "_2014_expenditure_allowance" : "7249027",
+  "fund" : "2011 Families and Education Levy (17857)",
+  "bcl_name" : "Early Learning and School Readiness"
+}
+, {
+  "bcl_code" : "IL202",
+  "bcl_purpose" : "The purpose of the Elementary School Academic Achievement Budget Control Level is to improve Seattle's elementary school-aged children's ability to achieve academically by investing in quality academic support programs.",
+  "department" : "Department of Neighborhoods",
+  "_2014_expenditure_allowance" : "5759322",
+  "fund" : "2011 Families and Education Levy (17857)",
+  "bcl_name" : "Elementary School Academic Achievement"
+}
+, {
+  "bcl_code" : "IL302",
+  "bcl_purpose" : "The purpose of the Middle School Academic Achievement and College/ Career Preparation Budget Control Level is improve Seattle's middle school-aged children's ability to achieve academically, complete school, and be prepared for college and/ or careers after high school by investing in quality academic support programs.",
+  "department" : "Department of Neighborhoods",
+  "_2014_expenditure_allowance" : "5656949",
+  "fund" : "2011 Families and Education Levy (17857)",
+  "bcl_name" : "Middle School Academic Achievement and College/ Career Preparation"
+}
+, {
+  "bcl_code" : "IL402",
+  "bcl_purpose" : "The purpose of the High School Academic Achievement and College/ Career Preparation Budget Control Level is to improve Seattle's high school-aged children's ability to achieve academically, complete school, and be prepared for college and/ or careers after high school by investing in quality academic support programs.",
+  "department" : "Department of Neighborhoods",
+  "_2014_expenditure_allowance" : "2605102",
+  "fund" : "2011 Families and Education Levy (17857)",
+  "bcl_name" : "High School Academic Achievement and College/ Career Preparation"
+}
+, {
+  "bcl_code" : "IL502",
+  "bcl_purpose" : "The purpose of the Student Health Budget Control Level is to reduce health-related barriers to learning so that students can achieve academically, complete school, and be prepared for college and/ or careers after high school by investing in school-based health programs located at Seattle Public Schools.",
+  "department" : "Department of Neighborhoods",
+  "_2014_expenditure_allowance" : "6187471",
+  "fund" : "2011 Families and Education Levy (17857)",
+  "bcl_name" : "Student Health"
+}
+, {
+  "bcl_code" : "IL702",
+  "bcl_purpose" : "The purpose of the Administration Budget Control is to monitor that funds are used to achieve the Levy's goals of school readiness, academic achievement, reduced dropout rates and increased graduation rates, and student preparedness for college and/ or careers after high school. Evaluation is not included for 2012.",
+  "department" : "Department of Neighborhoods",
+  "_2014_expenditure_allowance" : "1482823",
+  "fund" : "2011 Families and Education Levy (17857)",
+  "bcl_name" : "Administration and Evaluation"
+}
+, {
+  "bcl_code" : "B301111",
+  "bcl_purpose" : "The purpose of the Library Major Maintenance Budget Control Level is to provide major maintenance to Library facilities, which include the Central Library and all branch libraries, to help provide for building integrity and improve functionality for patrons and staff. This BCL is funded by Library Levy dollars (Fund 18100).",
+  "department" : "The Seattle Public Library",
+  "_2014_expenditure_allowance" : "3056000",
+  "fund" : "2012 Library Levy Fund (18100)",
+  "bcl_name" : "Library Major Maintenance (18100-CIP)"
+}
+, {
+  "bcl_code" : "B9TRF",
+  "bcl_purpose" : "The purpose of the Library Levy Operating Transfer Budget Control Level is to transfer funds to the Library Fund (10410) for library operations. This BCL is funded by Library Levy dollars (Fund 18100).",
+  "department" : "The Seattle Public Library",
+  "_2014_expenditure_allowance" : "12658704",
+  "fund" : "2012 Library Levy Fund (18100)",
+  "bcl_name" : "Library Levy Operating Transfer"
+}
+, {
+  "bcl_code" : "DEBTBIRF",
+  "bcl_purpose" : "The purpose of the Bond Interest and Redemption Budget Control Level is to make certain debt service payments through the Bond Interest and Redemption Fund (BIRF).",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "1521014",
+  "fund" : "Bond Interest and Redemption",
+  "bcl_name" : "Bond Interest and Redemption"
+}
+, {
+  "bcl_code" : "DEBTUTGO",
+  "bcl_purpose" : "The purpose of the UTGO Debt Service Budget Control Level is to create the legal appropriations to pay debt service on outstanding Unlimited Tax General Obligation (UTGO) Bonds.",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "14799344",
+  "fund" : "UTGO Bond Interest and Redemption Fund",
+  "bcl_name" : "UTGO Debt Service"
+}
+, {
+  "bcl_code" : "K720010",
+  "bcl_purpose" : "The purpose of the 2008 Parks Levy- Neighborhood Park Acquisition Budget Control Level (BCL) is to provide for neighborhood park acquisitions identified in the 2008 Parks Levy. This BCL is funded by the 2008 Parks Levy Fund (33860).",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "300000",
+  "fund" : "2008 Parks Levy Fund",
+  "bcl_name" : "2008 Parks Levy- Neighborhood Park Acquisition (33860- CIP)"
+}
+, {
+  "bcl_code" : "K720011",
+  "bcl_purpose" : "The purpose of the 2008 Parks Levy - Green Space Acquisitions Budget Control Level (BCL) is to provide for green space park acquisitions identified in the 2008 Parks Levy. This BCL is funded by the 2008 Parks Levy Fund (Fund 33860).",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "95000",
+  "fund" : "2008 Parks Levy Fund",
+  "bcl_name" : "2008 Parks Levy- Green Space Acquisition (33860- CIP)"
+}
+, {
+  "bcl_code" : "K720020",
+  "bcl_purpose" : "The purpose of the 2008 Parks Levy - Neighborhood Parks and Playgrounds Budget Control Level (BCL) is to improve and address safety issues at playgrounds throughout the city identified in the 2008 Parks Levy. This BCL is funded by the 2008 Parks Levy Fund (33860).",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "5700000",
+  "fund" : "2008 Parks Levy Fund",
+  "bcl_name" : "2008 Parks Levy- Neighborhood Parks and Playgrounds (33860- CIP)"
+}
+, {
+  "bcl_code" : "K720030",
+  "bcl_purpose" : "The purpose of the 2008 Parks Levy - Forest & Stream Restoration Budget Control Level is to re-establish healthy urban forests on City-owned property. This BCL is funded by the 2008 Parks Levy Fund (Fund 33860).",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "426000",
+  "fund" : "2008 Parks Levy Fund",
+  "bcl_name" : "2008 Parks Levy- Forest & Stream Restoration (33860- CIP)"
+}
+, {
+  "bcl_code" : "K720032",
+  "bcl_purpose" : "The purpose of the 2008 Parks Levy - Shoreline Access Budget Control Level (BCL) is to develop existing City-owned street ends to provide publicly accessible shoreline. This BCL is funded by the 2008 Parks Levy Fund (Fund 33860).",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "75000",
+  "fund" : "2008 Parks Levy Fund",
+  "bcl_name" : "2008 Parks Levy- Shoreline Access (33860-CIP)"
+}
+, {
+  "bcl_code" : "S0303",
+  "bcl_purpose" : "The purpose of the McCaw Hall Maintenance Fund Budget Control Level (BCL) is to develop an Asset Preservation Plan for McCaw Hall and fund capital investments in the facility. This BCL is supported by resources from the McCaw Hall Maintenance Fund (Fund 34070).",
+  "department" : "Seattle Center",
+  "_2014_expenditure_allowance" : "500000",
+  "fund" : "McCaw Hall Capital Reserve",
+  "bcl_name" : "McCaw Hall Maintenance Fund (34070-CIP)"
+}
+, {
+  "bcl_code" : "DEBTISSUE",
+  "bcl_purpose" : "The purpose of the Debt Issuance Costs Budget Control Level is to pay debt issuance costs related to the 2013 Multipurpose Limited Tax General Obligation (LTGO) Debt Issuance.",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "2403303",
+  "fund" : "2007 Multipurpose LTGO Bond Fund",
+  "bcl_name" : "Debt Issuance Costs"
+}
+, {
+  "bcl_code" : "A1IT",
+  "bcl_purpose" : "The purpose of the Information Technology Budget Control Level (BCL) is to replace, upgrade or maintain FAS information technology systems to meet the evolving enterprise activities of the City. This BCL is funded by 2013 LTGO bond Dollars (Fund 35700).",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "1000000",
+  "fund" : "2013 Multipurpose LTGO Bond Fund",
+  "bcl_name" : "Information Technology (35700-CIP)"
+}
+, {
+  "bcl_code" : "A1FL1",
+  "bcl_purpose" : "The purpose of the Neighborhood Fire Stations Budget Control Level (BCL) is to replace and renovate fire stations and other emergency response facilities as part of the Fire Facilities and Emergency Response Levy program. This BCL is funded by Limited Tax General Obligation Bond moneys (Fund 35800).",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "8649947",
+  "fund" : "2014 Multipurpose LTGO Bond Fund",
+  "bcl_name" : "Neighborhood Fire Stations (35800-CIP)"
+}
+, {
+  "bcl_code" : "A1IT",
+  "bcl_purpose" : "The purpose of the Information Technology Budget Control Level (BCL) is to replace, upgrade or maintain FAS information technology systems to meet the evolving enterprise activities of the City. This BCL is funded by 2013 LTGO bond Dollars (Fund 35800).",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "7038000",
+  "fund" : "2014 Multipurpose LTGO Bond Fund",
+  "bcl_name" : "Information Technology (35800-CIP)"
+}
+, {
+  "bcl_code" : "A1PS1",
+  "bcl_purpose" : "The purpose of the Public Safety Facilities - Police Budget Control Level (BCL) is to renovate, expand, replace, or build police facilities. This BCL is funded by a 2014 bond issue (Fund 35800).",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "11400000",
+  "fund" : "2014 Multipurpose LTGO Bond Fund",
+  "bcl_name" : "Public Safety Facilities - Police (35800-CIP)"
+}
+, {
+  "bcl_code" : "CWIF-INT",
+  "bcl_purpose" : "The purpose of the Central Waterfront Improvement Fund Interest Expense Program is to appropriate interest expense allocated to the Fund.",
+  "department" : "Seattle Department of Transportation",
+  "_2014_expenditure_allowance" : "595000",
+  "fund" : "Central Waterfront Improvement Fund",
+  "bcl_name" : "Central Waterfront Improvement Fund Interest Expense"
+}
+, {
+  "bcl_code" : "SCL100",
+  "bcl_purpose" : "The purpose of the Office of the Superintendent Budget Control Level is to provide leadership and broad departmental policy direction to deliver reliable electric power and maintain the financial health of the utility. The utility's communications and governmental affairs functions are included in this Budget Control Level.",
+  "department" : "Seattle City Light",
+  "_2014_expenditure_allowance" : "3198260",
+  "fund" : "City Light Fund",
+  "bcl_name" : "Office of Superintendent"
+}
+, {
+  "bcl_code" : "SCL210",
+  "bcl_purpose" : "The purpose of the Power Supply O&M Budget Control Level is to provide clean, safe, economic, efficient, reliable sources of electric power for City Light customers. This Budget Control Level supports the power generation and power marketing operations of the utility. Utility-wide support services such as shops, real estate, fleet, and facility management services are also included in this Budget Control Level.",
+  "department" : "Seattle City Light",
+  "_2014_expenditure_allowance" : "51451102",
+  "fund" : "City Light Fund",
+  "bcl_name" : "Power Supply O&M"
+}
+, {
+  "bcl_code" : "SCL220",
+  "bcl_purpose" : "The purpose of the Conservation Resources and Environmental Affairs O&M Budget Control Level is to design and implement demand-side conservation measures that offset the need for additional generation resources, and to help the utility generates and delivers energy in an environmentally responsible manner. This Budget Control Level also supports the utility's renewable resource development programs.",
+  "department" : "Seattle City Light",
+  "_2014_expenditure_allowance" : "61573633",
+  "fund" : "City Light Fund",
+  "bcl_name" : "Conservation Resources and Environmental Affairs O&M"
+}
+, {
+  "bcl_code" : "SCL250",
+  "bcl_purpose" : "The purpose of the Power Supply & Environmental Affairs - CIP Budget Control Level is to provide for the capital costs of maintaining the physical generating plant and associated power license and regulatory requirements. This Budget Control Level supports capital projects identified in the Proposed 2012-2017 Capital Improvement Plan.",
+  "department" : "Seattle City Light",
+  "_2014_expenditure_allowance" : "63417769",
+  "fund" : "City Light Fund",
+  "bcl_name" : "Power Supply & Environmental Affairs - CIP"
+}
+, {
+  "bcl_code" : "SCL310",
+  "bcl_purpose" : "The purpose of the Distribution Services Budget Control Level is to provide reliable electricity to customers through operation and maintenance of City Light's overhead and underground distribution systems, substations, and transmission systems.",
+  "department" : "Seattle City Light",
+  "_2014_expenditure_allowance" : "73941794",
+  "fund" : "City Light Fund",
+  "bcl_name" : "Distribution Services"
+}
+, {
+  "bcl_code" : "SCL320",
+  "bcl_purpose" : "The purpose of the Customer Services Budget Control Level is to provide customer services, including metering, billing, account management, and customer information systems.",
+  "department" : "Seattle City Light",
+  "_2014_expenditure_allowance" : "28307173",
+  "fund" : "City Light Fund",
+  "bcl_name" : "Customer Services"
+}
+, {
+  "bcl_code" : "SCL360",
+  "bcl_purpose" : "The purpose of the Transmission and Distribution - CIP Budget Control Level is to provide for the capital costs of installation, major maintenance, rehabilitation, and replacement of transmission lines, substations, distribution feeders, transformers, and other elements of the utility's transmission and distribution systems. This Budget Control Level supports capital projects identified in the Proposed 2012-2017 Capital Improvement Plan.",
+  "department" : "Seattle City Light",
+  "_2014_expenditure_allowance" : "83447858",
+  "fund" : "City Light Fund",
+  "bcl_name" : "Transmission and Distribution - CIP"
+}
+, {
+  "bcl_code" : "SCL370",
+  "bcl_purpose" : "The purpose of the Customer Focused - CIP Budget Control Level is to provide for the capital costs of customer service connections, meters, and other customer-driven projects, including large inter-agency projects requiring utility services or relocations. This Budget Control Level supports capital projects identified in the Proposed 2012-2017 Capital Improvement Plan.",
+  "department" : "Seattle City Light",
+  "_2014_expenditure_allowance" : "57204028",
+  "fund" : "City Light Fund",
+  "bcl_name" : "Customer Focused - CIP"
+}
+, {
+  "bcl_code" : "SCL400",
+  "bcl_purpose" : "The purpose of the Human Resources Budget Control Level is to provide employee and management support services, including safety programs, organizational development, training, personnel, and labor relations.",
+  "department" : "Seattle City Light",
+  "_2014_expenditure_allowance" : "9137512",
+  "fund" : "City Light Fund",
+  "bcl_name" : "Human Resources"
+}
+, {
+  "bcl_code" : "SCL500",
+  "bcl_purpose" : "The purpose of the Financial Services - O&M Budget Control Level is to manage the utility's financial health through planning, risk mitigation, and provision of information to make financial decisions. Information technology services are also provided through this Budget Control Level to support systems and applications used throughout the utility.",
+  "department" : "Seattle City Light",
+  "_2014_expenditure_allowance" : "36575868",
+  "fund" : "City Light Fund",
+  "bcl_name" : "Financial Services - O&M"
+}
+, {
+  "bcl_code" : "SCL550",
+  "bcl_purpose" : "The purpose of the Financial Services - CIP Budget Control Level is to provide for the capital costs of rehabilitation and replacement of the utility's financial systems and information technology infrastructure, and the development and implementation of large software applications. This Budget Control Level supports capital projects identified in the Proposed 2012-2017 Capital Improvement Plan.",
+  "department" : "Seattle City Light",
+  "_2014_expenditure_allowance" : "15920063",
+  "fund" : "City Light Fund",
+  "bcl_name" : "Financial Services - CIP"
+}
+, {
+  "bcl_code" : "SCL710",
+  "bcl_purpose" : "The purpose of the Short-term Purchased Power Budget Control Level is to acquire wholesale power, transmission, and other related services (including renewable energy credits) to manage the utility's short-term demand given the variability of hydroelectric power. This Budget Control Level provides appropriations for planned transactions of up to 24 months in advance.",
+  "department" : "Seattle City Light",
+  "_2014_expenditure_allowance" : "55573481",
+  "fund" : "City Light Fund",
+  "bcl_name" : "Short-Term Purchased Power"
+}
+, {
+  "bcl_code" : "SCL720",
+  "bcl_purpose" : "The purpose of the Long-term Purchased Power Budget Control Level is to acquire wholesale power, transmission, and other related services (including renewable energy credits) to meet the utility's long-term demand for power. This Budget Control Level provides appropriations for planned transactions beyond 24 months in advance.",
+  "department" : "Seattle City Light",
+  "_2014_expenditure_allowance" : "287056885",
+  "fund" : "City Light Fund",
+  "bcl_name" : "Long-Term Purchased Power"
+}
+, {
+  "bcl_code" : "SCL800",
+  "bcl_purpose" : "The purpose of the General Expenses Budget Control Level is to provide for the general expenses of the utility that, for the most part, are not directly attributable to a specific organizational unit. These expenditures include insurance, bond issue costs, bond maintenance fees, audit costs, Law Department legal fees, external legal fees, employee benefits (medical and retirement costs), industrial insurance costs, general claims costs, and services provided by the City's internal services departments through the central cost allocation mechanism.",
+  "department" : "Seattle City Light",
+  "_2014_expenditure_allowance" : "87109392",
+  "fund" : "City Light Fund",
+  "bcl_name" : "General Expenses"
+}
+, {
+  "bcl_code" : "SCL810",
+  "bcl_purpose" : "The purpose of the Debt Service Budget Control Level is to meet principal repayment and interest obligations on funds borrowed to meet City Light's capital expenditure requirements.",
+  "department" : "Seattle City Light",
+  "_2014_expenditure_allowance" : "196466429",
+  "fund" : "City Light Fund",
+  "bcl_name" : "Debt Service"
+}
+, {
+  "bcl_code" : "SCL820",
+  "bcl_purpose" : "The purpose of the Taxes Budget Control Level is to pay City Light's legally required tax payments for state, city, and local jurisdictions. This Budget Control Level includes funding for franchise contract payments negotiated with local jurisdictions in City Light's service territory.",
+  "department" : "Seattle City Light",
+  "_2014_expenditure_allowance" : "86159047",
+  "fund" : "City Light Fund",
+  "bcl_name" : "Taxes"
+}
+, {
+  "bcl_code" : "SCL900",
+  "bcl_purpose" : "The purpose of the Compliance and Security Budget Control Level is to monitor compliance with federal electric reliability standards and secure critical utility infrastructure.",
+  "department" : "Seattle City Light",
+  "_2014_expenditure_allowance" : "3442861",
+  "fund" : "City Light Fund",
+  "bcl_name" : "Compliance and Security"
+}
+, {
+  "bcl_code" : "C110B",
+  "bcl_purpose" : "The purpose of the Water Utility Distribution Budget Control Level, a Capital Improvement Program funded by water revenues, is to repair and upgrade the City's water lines, pump stations, and other facilities.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "20393599",
+  "fund" : "Water Fund",
+  "bcl_name" : "Distribution"
+}
+, {
+  "bcl_code" : "C120B",
+  "bcl_purpose" : "The purpose of the Water Utility Transmission Budget Control Level, a Capital Improvement Program funded by water revenues, is to repair and upgrade the City's large transmission pipelines that bring untreated water to the treatment facilities, and convey water from the treatment facilities to Seattle and its suburban wholesale customers' distribution systems.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "3075786",
+  "fund" : "Water Fund",
+  "bcl_name" : "Transmission"
+}
+, {
+  "bcl_code" : "C130B",
+  "bcl_purpose" : "The purpose of the Water Utility Watershed Stewardship Budget Control Level, a Capital Improvement Program funded by water revenues, is to implement projects associated with the natural land, forestry, and fishery resources within the Tolt, Cedar, and Lake Youngs watersheds.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "1999",
+  "fund" : "Water Fund",
+  "bcl_name" : "Watershed Stewardship"
+}
+, {
+  "bcl_code" : "C140B",
+  "bcl_purpose" : "The purpose of the Water Utility Water Quality & Treatment Budget Control Level, a Capital Improvement Program funded by water revenues, is to design, construct, and repair water treatment facilities and remaining open-water reservoirs.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "5303791",
+  "fund" : "Water Fund",
+  "bcl_name" : "Water Quality & Treatment"
+}
+, {
+  "bcl_code" : "C150B",
+  "bcl_purpose" : "The purpose of the Water Utility Water Resources Budget Control Level, a Capital Improvement Program funded by water revenues, is to manage untreated water to meet anticipated demands at our supply-reliability standard and instream flow requirement, and promote residential and commercial water conservation.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "8212072",
+  "fund" : "Water Fund",
+  "bcl_name" : "Water Resources"
+}
+, {
+  "bcl_code" : "C160B",
+  "bcl_purpose" : "The purpose of the Water Utility Habitat Conservation Budget Control Level, a Capital Improvement Program funded by water revenues, is to manage projects directly related to the Cedar River Watershed Habitat Conservation Plan.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "2490751",
+  "fund" : "Water Fund",
+  "bcl_name" : "Habitat Conservation Program"
+}
+, {
+  "bcl_code" : "C410B-WU",
+  "bcl_purpose" : "The purpose of the Water Utility Shared Cost Projects Budget Control Level, which is a Water Capital Improvement Program, is to implement the Water Utility's share of capital improvement projects that receive funding from multiple SPU funds.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "19402731",
+  "fund" : "Water Fund",
+  "bcl_name" : "Shared Cost Projects"
+}
+, {
+  "bcl_code" : "C510B-WU",
+  "bcl_purpose" : "The purpose of the Water Utility Technology Budget Control Level, a Capital Improvement Program, is to make use of technology to increase the Water Utility's efficiency and productivity.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "8596072",
+  "fund" : "Water Fund",
+  "bcl_name" : "Technology"
+}
+, {
+  "bcl_code" : "N000B-WU",
+  "bcl_purpose" : "The purpose of the Water Utility General Expense Budget Control Level is to appropriate funds to pay the Water Utility's general expenses.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "143332578",
+  "fund" : "Water Fund",
+  "bcl_name" : "General Expense"
+}
+, {
+  "bcl_code" : "N100B-WU",
+  "bcl_purpose" : "The purpose of the Water Utility Administration Budget Control Level is to provide overall management and policy direction for Seattle Public Utilities, and, more specifically, for the Water Utility, and to provide core financial, human resource, and information technology services.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "10903062",
+  "fund" : "Water Fund",
+  "bcl_name" : "Administration"
+}
+, {
+  "bcl_code" : "N300B-WU",
+  "bcl_purpose" : "The purpose of the Water Utility Customer Service Budget Control Level is to provide customer service in the direct delivery of programs and services.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "10368549",
+  "fund" : "Water Fund",
+  "bcl_name" : "Customer Service"
+}
+, {
+  "bcl_code" : "N400B-WU",
+  "bcl_purpose" : "The purpose of the Other Operating Budget Control Level is to fund the Water Utility's operating expenses for Field Operations, Pre- Capital Planning & Development, Project Delivery, and Utility Systems Management programs.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "48921572",
+  "fund" : "Water Fund",
+  "bcl_name" : "Other Operating"
+}
+, {
+  "bcl_code" : "C333B",
+  "bcl_purpose" : "The purpose of the Drainage and Wastewater Utility Protection of Beneficial Uses Budget Control Level, a Capital Improvement Program funded by drainage revenues, is to make improvements to the city's drainage system to reduce the harmful effects of stormwater runoff on creeks and receiving waters by improving water quality and protecting or enhancing habitat.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "5141941",
+  "fund" : "Drainage and Wastewater Fund",
+  "bcl_name" : "Protection of Beneficial Uses"
+}
+, {
+  "bcl_code" : "C350B",
+  "bcl_purpose" : "The purpose of the Drainage and Wastewater Utility Sediments Budget Control Level, a Capital Improvement Program funded by drainage and wastewater revenues, is to restore and rehabilitate natural resources in or along Seattle's waterways.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "2050342",
+  "fund" : "Drainage and Wastewater Fund",
+  "bcl_name" : "Sediments"
+}
+, {
+  "bcl_code" : "C360B",
+  "bcl_purpose" : "The purpose of the Drainage and Wastewater Utility Combined Sewer Overflow (CSO) Budget Control Level, a Capital Improvement Program funded by drainage and wastewater revenues, is to plan and construct large infrastructure systems, smaller retrofits, and green infrastructure for CSO control.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "49201662",
+  "fund" : "Drainage and Wastewater Fund",
+  "bcl_name" : "Combined Sewer Overflows"
+}
+, {
+  "bcl_code" : "C370B",
+  "bcl_purpose" : "The purpose of the Drainage and Wastewater Utility Rehabilitation Budget Control Level, a Capital Improvement Program funded by drainage and wastewater revenues, is to rehabilitate or replace existing drainage and wastewater assets in kind, to maintain the current functionality of the system.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "8770000",
+  "fund" : "Drainage and Wastewater Fund",
+  "bcl_name" : "Rehabilitation"
+}
+, {
+  "bcl_code" : "C380B",
+  "bcl_purpose" : "The purpose of the Drainage and Wastewater Utility Flooding, Sewer Back-up, and Landslides Budget Control Level, a Capital Improvement Program funded by drainage and wastewater revenues, is to plan, design, and construct systems aimed at preventing or alleviating flooding and sewer backups in the city of Seattle, protecting public health, safety, and property. This program also protects SPU drainage and wastewater infrastructure from landslides, and makes drainage improvements where surface water generated from the City right-of-way contributes to landslides.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "17201000",
+  "fund" : "Drainage and Wastewater Fund",
+  "bcl_name" : "Flooding, Sewer Back-up, and Landslides"
+}
+, {
+  "bcl_code" : "C410B-DW",
+  "bcl_purpose" : "The purpose of the Drainage and Wastewater Utility Shared Cost Projects Budget Control Level, a Drainage and Wastewater Capital Improvement Program, is to implement the Drainage and Wastewater Utility's share of capital improvement projects that receive funding from multiple SPU funds benefiting the Utility.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "11394835",
+  "fund" : "Drainage and Wastewater Fund",
+  "bcl_name" : "Shared Cost Projects"
+}
+, {
+  "bcl_code" : "C510B-DW",
+  "bcl_purpose" : "The purpose of the Drainage and Wastewater Utility Technology Budget Control Level, a Capital Improvement Program, is to make use of recent technology advances to increase the Drainage and Wastewater Utility's efficiency and productivity.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "7612800",
+  "fund" : "Drainage and Wastewater Fund",
+  "bcl_name" : "Technology"
+}
+, {
+  "bcl_code" : "N000B-DW",
+  "bcl_purpose" : "The purpose of the Drainage and Wastewater Utility General Expense Budget Control Level is to appropriate funds to pay the Drainage and Wastewater Utility's general expenses.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "240054742",
+  "fund" : "Drainage and Wastewater Fund",
+  "bcl_name" : "General Expense"
+}
+, {
+  "bcl_code" : "N100B-DW",
+  "bcl_purpose" : "The purpose of the Drainage and Wastewater Utility Administration Budget Control Level is to provide overall management and policy direction for Seattle Public Utilities and, more specifically, for the Drainage and Wastewater Utility, and to provide core financial, human resource, and information technology services.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "6248372",
+  "fund" : "Drainage and Wastewater Fund",
+  "bcl_name" : "Administration"
+}
+, {
+  "bcl_code" : "N300B-DW",
+  "bcl_purpose" : "The purpose of the Drainage and Wastewater Utility Customer Service Budget Control Level is to provide customer service in the direct delivery of programs and services.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "7506712",
+  "fund" : "Drainage and Wastewater Fund",
+  "bcl_name" : "Customer Service"
+}
+, {
+  "bcl_code" : "N400B-DW",
+  "bcl_purpose" : "The purpose of the Other Operating Budget Control Level is to fund the Drainage and Wastewater Utility's operating expenses for Field Operations, Pre-Capital Planning & Development, Project Delivery, and Utility Systems Management programs.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "54825424",
+  "fund" : "Drainage and Wastewater Fund",
+  "bcl_name" : "Other Operating"
+}
+, {
+  "bcl_code" : "C230B",
+  "bcl_purpose" : "The purpose of the Solid Waste Utility New Facilities Budget Control Level, a Capital Improvement Program funded by solid waste revenues, is to design and construct new facilities to enhance solid waste operations.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "32077233",
+  "fund" : "Solid Waste Fund",
+  "bcl_name" : "New Facilities"
+}
+, {
+  "bcl_code" : "C240B",
+  "bcl_purpose" : "The purpose of the Solid Waste Utility Rehabilitation and Heavy Equipment Budget Control Level, a Capital Improvement Program funded by solid waste revenues, is to implement projects to repair and rehabilitate the City's solid waste transfer stations and improve management of the City's closed landfills and household hazardous waste sites.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "45000",
+  "fund" : "Solid Waste Fund",
+  "bcl_name" : "Rehabilitation and Heavy Equipment"
+}
+, {
+  "bcl_code" : "C410B-SW",
+  "bcl_purpose" : "The purpose of the Solid Waste Utility Shared Cost Projects Budget Control Level, a Solid Waste Capital Improvement Program, is to implement the Solid Waste Utility's share of capital improvement projects that receive funding from multiple SPU funds and will benefit the Solid Waste Fund.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "2356531",
+  "fund" : "Solid Waste Fund",
+  "bcl_name" : "Shared Cost Projects"
+}
+, {
+  "bcl_code" : "C510B-SW",
+  "bcl_purpose" : "The purpose of the Solid Waste Utility Technology Budget Control Level, a Capital Improvement Program, is to make use of technology to increase the Solid Waste Utility's efficiency and productivity.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "4891677",
+  "fund" : "Solid Waste Fund",
+  "bcl_name" : "Technology"
+}
+, {
+  "bcl_code" : "N000B-SW",
+  "bcl_purpose" : "The purpose of the Solid Waste Utility General Expense Budget Control Level is to pay the Solid Waste Utility's general expenses.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "142950399",
+  "fund" : "Solid Waste Fund",
+  "bcl_name" : "General Expense"
+}
+, {
+  "bcl_code" : "N100B-SW",
+  "bcl_purpose" : "The purpose of the Solid Waste Utility Administration Budget Control Level is to provide overall management and policy direction for Seattle Public Utilities, and, more specifically, for the Solid Waste Utility, and to provide core financial, human resource, and information technology services.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "5022716",
+  "fund" : "Solid Waste Fund",
+  "bcl_name" : "Administration"
+}
+, {
+  "bcl_code" : "N300B-SW",
+  "bcl_purpose" : "The purpose of the Solid Waste Utility Customer Service Budget Control Level is to provide customer service in the direct delivery of programs and services.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "13048606",
+  "fund" : "Solid Waste Fund",
+  "bcl_name" : "Customer Service"
+}
+, {
+  "bcl_code" : "N400B-SW",
+  "bcl_purpose" : "The purpose of the Other Operating Budget Control Level is to fund the Solid Waste Utility's operating expenses for Field Operations, Pre-Capital Planning & Development, Project Delivery, and Utility Systems Management programs.",
+  "department" : "Seattle Public Utilities",
+  "_2014_expenditure_allowance" : "16985077",
+  "fund" : "Solid Waste Fund",
+  "bcl_name" : "Other Operating"
+}
+, {
+  "bcl_code" : "46011",
+  "bcl_purpose" : "The purpose of the Pacific Place Garage Budget Control Level is to pay for the City's expenses to operate the Pacific Place Garage, which is located between Sixth and Seventh Avenues and Pine and Olive Streets in downtown Seattle. ",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "8687760",
+  "fund" : "Parking Garage Operations Fund (46010)",
+  "bcl_name" : "Pacific Place Garage"
+}
+, {
+  "bcl_code" : "A1000",
+  "bcl_purpose" : "The purpose of the Budget and Central Services Budget Control Level is to provide executive leadership and a range of planning and support functions, including policy and strategic analysis, budget development and monitoring, financial analysis and reporting, accounting services, information technology services, human resource services, office administration, and central departmental services such as contract review and legislative coordination. These functions promote solid business systems, optimal resource allocation, and compliance with Citywide financial, technology, and personnel policies.",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "4516938",
+  "fund" : "Finance and Administrative Services Fund (50300)",
+  "bcl_name" : "Budget and Central Services"
+}
+, {
+  "bcl_code" : "A1GM1",
+  "bcl_purpose" : "The purpose of the General Government Facilities - General Budget Control Level (BCL) is to execute capital projects in general government facilities. This BCL is funded by Fleets and Facilities Fund dollars (Fund 50300).",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "3500000",
+  "fund" : "Finance and Administrative Services Fund (50300)",
+  "bcl_name" : "General Government Facilities - General (50300-CIP)"
+}
+, {
+  "bcl_code" : "A2000",
+  "bcl_purpose" : "The purpose of the Fleet Services Budget Control Level is to provide fleet vehicles to City departments; assess and implement environmental initiatives related to both the composition of the City's fleet and the fuels that power it; actively manage and maintain the fleet; procure and distribute fuel; and operate a centralized motor pool. The goal of these functions is to create and support an environmentally responsible and cost-effective Citywide fleet that helps all City departments carry out their work as efficiently as possible.",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "47667135",
+  "fund" : "Finance and Administrative Services Fund (50300)",
+  "bcl_name" : "Fleet Services"
+}
+, {
+  "bcl_code" : "A3000",
+  "bcl_purpose" : "The purpose of the Facility Services Budget Control Level is to manage most of the City's general government facilities, including the downtown civic campus, police precincts, fire stations, shops and yards, and several parking facilities. Functions include property management, environmental analysis, implementation of environmentally sustainable facility investments, facility maintenance and repair, janitorial services, security services, and event scheduling. The Facility Operations team is also responsible for warehouse, real estate, and mail services throughout the City. These functions promote well-managed, clean, safe, and highly efficient buildings and grounds that house City employees and serve the public.",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "65267359",
+  "fund" : "Finance and Administrative Services Fund (50300)",
+  "bcl_name" : "Facility Services"
+}
+, {
+  "bcl_code" : "A3100",
+  "bcl_purpose" : "The purpose of the Technical Services Budget Control Level is to plan and administer FAS' Capital Improvement Program. ",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "3160031",
+  "fund" : "Finance and Administrative Services Fund (50300)",
+  "bcl_name" : "Technical Services"
+}
+, {
+  "bcl_code" : "A4000",
+  "bcl_purpose" : "The purpose of the Judgment and Claims Budget Control Level is to pay for judgments, settlements, claims, and other eligible expenses associated with legal claims and suits against the City. Premiums are based on average percentage of Judgment/ Claims expenses incurred by the Department over the previous five years.",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "222685",
+  "fund" : "Finance and Administrative Services Fund (50300)",
+  "bcl_name" : "Judgment and Claims"
+}
+, {
+  "bcl_code" : "A4510",
+  "bcl_purpose" : "The purpose of the Financial Services Budget Control Level (BCL) is to oversee and provide technical support to the financial affairs of the City. This BCL performs a wide range of technical and operating functions, such as economic and fiscal forecasting, debt issuance and management, Citywide payroll processing, investments, risk management tax administration, and revenue and payment processing services. In addition, this BCL develops and implements a variety of City financial policies related to the City's revenues, accounting procedures, and risk mitigation. Finally, the BCL provides oversight and guidance to financial reporting, City retirement programs, and public corporations established by the City.",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "14205210",
+  "fund" : "Finance and Administrative Services Fund (50300)",
+  "bcl_name" : "Financial Services"
+}
+, {
+  "bcl_code" : "A4520",
+  "bcl_purpose" : "The purpose of the Business Technology Budget Control Level is to plan, strategize, develop, implement, and maintain information technologies to support the City's business activities.",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "12865644",
+  "fund" : "Finance and Administrative Services Fund (50300)",
+  "bcl_name" : "Business Technology"
+}
+, {
+  "bcl_code" : "A4530",
+  "bcl_purpose" : "The purpose of the Consumer Protection Program is to support City services and regulations that attempt to provide Seattle consumers with a fair and well-regulated marketplace. This program includes taxicab inspections and licensing, the weights and measures inspection program, vehicle impound, and consumer complaint investigation.",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "3457271",
+  "fund" : "Finance and Administrative Services Fund (50300)",
+  "bcl_name" : "Revenue and Consumer Protection"
+}
+, {
+  "bcl_code" : "A4540",
+  "bcl_purpose" : "The purpose of the City Purchasing and Contracting Services Budget Control Level is to conduct and administer all bids and contracts for Public Works and purchases (products, supplies, equipment, and services) on behalf of City departments.",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "3877135",
+  "fund" : "Finance and Administrative Services Fund (50300)",
+  "bcl_name" : "City Purchasing and Contracting Services"
+}
+, {
+  "bcl_code" : "A5510",
+  "bcl_purpose" : "The purpose of the Seattle Animal Shelter Budget Control Level is to provide animal care, enforcement, and spay and neuter services in Seattle to control pet overpopulation and foster public safety. The Shelter also provides volunteer and foster care programs that enable the citizens of Seattle to donate both time and resources and engage in activities which promote animal welfare in Seattle.",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "3343961",
+  "fund" : "Finance and Administrative Services Fund (50300)",
+  "bcl_name" : "Seattle Animal Shelter"
+}
+, {
+  "bcl_code" : "A6510",
+  "bcl_purpose" : "The purpose of the Office of Constituent Services Budget Control Level (BCL) is to lead City departments to improve on consistently providing services that are easily accessible, responsive, and fair. This includes assistance with a broad range of City services, such as transactions, information requests, and complaint investigations. This BCL includes the City's Customer Service Bureau, the Neighborhood Payment and Information Service Centers, Citywide public disclosure responsibilities, and service- delivery analysts.",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "2853183",
+  "fund" : "Finance and Administrative Services Fund (50300)",
+  "bcl_name" : "Office of Constituent Services"
+}
+, {
+  "bcl_code" : "D1100",
+  "bcl_purpose" : "The purpose of the Finance and Administration Budget Control Level is to provide human resources, contracting, finance, budget, and accounting services (planning, control, analysis, and consulting) to the Department, and to manage funding associated with Citywide information technology initiatives.",
+  "department" : "Department of Information Technology",
+  "_2014_expenditure_allowance" : "39097911",
+  "fund" : "Information Technology Fund (50410)",
+  "bcl_name" : "Finance and Administration"
+}
+, {
+  "bcl_code" : "D2200",
+  "bcl_purpose" : "The purpose of the Technology Leadership and Governance Budget Control Level is to provide departments with strategic direction and coordination on technology for their respective investment decisions.",
+  "department" : "Department of Information Technology",
+  "_2014_expenditure_allowance" : "2066185",
+  "fund" : "Information Technology Fund (50410)",
+  "bcl_name" : "Technology Leadership and Governance"
+}
+, {
+  "bcl_code" : "D3300",
+  "bcl_purpose" : "The purpose of the Technology Infrastructure Budget Control Level is to build and operate the City's corporate communications and computing assets so that the City can manage information more effectively, deliver services more efficiently, and make better informed decisions.",
+  "department" : "Department of Information Technology",
+  "_2014_expenditure_allowance" : "38616236",
+  "fund" : "Information Technology Fund (50410)",
+  "bcl_name" : "Technology Infrastructure"
+}
+, {
+  "bcl_code" : "D4400",
+  "bcl_purpose" : "The purpose of the Office of Electronic Communications Budget Control Level is to operate the Seattle Channel, Cable Office, Web sites, and related programs so that technology delivers services and information to residents, businesses, visitors.",
+  "department" : "Department of Information Technology",
+  "_2014_expenditure_allowance" : "7487300",
+  "fund" : "Information Technology Fund (50410)",
+  "bcl_name" : "Office of Electronic Communications"
+}
+, {
+  "bcl_code" : "R1E10",
+  "bcl_purpose" : "The purpose of the Employees' Retirement Budget Control Level is to manage and administer retirement assets and benefits.",
+  "department" : "Employees' Retirement System",
+  "_2014_expenditure_allowance" : "14133642",
+  "fund" : "Employees' Retirement System Fund",
+  "bcl_name" : "Personnel, Maintenance, and Operations"
+}
+, {
+  "bcl_code" : "R2F01",
+  "bcl_purpose" : "The purpose of the Firefighters' Pension Budget Control Level is to provide benefit services to eligible active and retired firefighters and their lawful beneficiaries.",
+  "department" : "Firefighters' Pension",
+  "_2014_expenditure_allowance" : "19829267",
+  "fund" : "Firefighters Pension Fund (60200)",
+  "bcl_name" : "Firefighters' Pension"
+}
+, {
+  "bcl_code" : "RP604",
+  "bcl_purpose" : "The purpose of the Police Relief and Pension Budget Control Level is to provide responsive benefit services to eligible active-duty and retired Seattle police officers.",
+  "department" : "Police Relief and Pension",
+  "_2014_expenditure_allowance" : "19359068",
+  "fund" : "Police Relief and Pension Fund (60400)",
+  "bcl_name" : "Police Relief and Pension"
+}
+, {
+  "bcl_code" : "K72447",
+  "bcl_purpose" : "The purpose of the Docks/ Piers/ Floats/ Seawalls/ Shorelines Budget Control Level (BCL) is to provide for the rehabilitation and replacement of Parks and Recreation's docks, piers, floats, seawalls and shorelines. This BCL is funded by Beach Maintenance Trust Fund dollars (Fund 61500).",
+  "department" : "Department of Parks and Recreation",
+  "_2014_expenditure_allowance" : "25000",
+  "fund" : "Beach Maintenance Trust Fund",
+  "bcl_name" : "Docks/ Piers/ Floats/ Seawalls/ Shorelines (61500- CIP)"
+}
+, {
+  "bcl_code" : "A1PS1",
+  "bcl_purpose" : "The purpose of the Public Safety Facilities - Police (62480- CIP) Budget Control Level (BCL) is to renovate, expand, replace, or build police facilities. This BCL is funded by the Federal Vice Enforcement Forfeiture Fund (62480).",
+  "department" : "Department of Finance & Administrative Services",
+  "_2014_expenditure_allowance" : "1850000",
+  "fund" : "Federal Vice Enforcement Forfeiture Fund (62480)",
+  "bcl_name" : "Public Safety Facilities - Police (62480-CIP)"
+}
+, {
+  "bcl_code" : "2VMAO",
+  "bcl_purpose" : "The purpose of the Municipal Arts Fund Budget Control Level (BCL) is to fund the Public Art program, which develops art pieces and programs for City facilities and maintains the City's existing art collection. The BCL appropriates revenues from the Municipal Arts Fund (MAF). Most of the revenues come from the City's One Percent for Art program, a program that invests one percent of eligible capital funds in public art.",
+  "department" : "Executive",
+  "_2014_expenditure_allowance" : "2513672",
+  "fund" : "Municipal Arts Fund (62600)",
+  "bcl_name" : "Municipal Arts Fund"
+}
+ ]

@@ -10,11 +10,10 @@
 #import "JSONRequestHandler.h"
 
 @implementation JSONRequestHandler {
-    NSMutableData *receivedData;
     NSURLConnection *theConnection;
 }
 
--(void) getRequestForJSON {
+- (void) getRequestForJSONWithRequestDelegate: (id) delegate {
     
     NSURL *url = [NSURL URLWithString: @"https://data.seattle.gov/resource/endorsed-budget-2014-expenditure-allowance-by-budget-control-level-bcl-.json"];
     
@@ -22,32 +21,11 @@
                                                 cachePolicy:NSURLRequestUseProtocolCachePolicy
                                             timeoutInterval:60.0];
     
-    // Create the NSMutableData for receivedData
-    receivedData = [NSMutableData dataWithCapacity: 0];
-    
     // create the connection with the request
-    theConnection= [[NSURLConnection alloc] initWithRequest:theRequest delegate:self];
-    
-    if (!theConnection) {
-        // Release the receivedData object.
-        receivedData = nil;
-        // Inform the user that the connection failed. :(
-    }
-
-}
-
--(void) connection:(NSURLConnection *)connection didReceiveData:(NSData *)data {
-    
-    // Append the new data to receivedData.
-    [receivedData appendData:data];
-}
-
--(void) connectionDidFinishLoading:(NSURLConnection *)connection {
-    NSDictionary * requestJSON = [NSJSONSerialization JSONObjectWithData:receivedData
-                                                                 options:kNilOptions
-                                                                   error:nil];
-    [self setJson: requestJSON];
+    theConnection= [[NSURLConnection alloc] initWithRequest:theRequest delegate: delegate];
     
 }
+
+
 
 @end

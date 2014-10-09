@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D86F12BF468F44388A9C7F5B /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 941C040099B344AEB3EE2E0C /* libPods.a */; };
 		F94BA58F19E4C7F200AC5F92 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F94BA58E19E4C7F200AC5F92 /* QuartzCore.framework */; };
 		F9DB276619E5CCC7007DC63C /* BudgetDataMapper.m in Sources */ = {isa = PBXBuildFile; fileRef = F9DB276519E5CCC7007DC63C /* BudgetDataMapper.m */; };
 		F9E1CDAD19E3BB9300F52E51 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F9E1CDAC19E3BB9300F52E51 /* main.m */; };
@@ -18,6 +17,7 @@
 		F9E1CDBB19E3BB9300F52E51 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F9E1CDB919E3BB9300F52E51 /* LaunchScreen.xib */; };
 		F9E1CDC719E3BB9400F52E51 /* Seattle_2014_Endorsed_BudgetTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F9E1CDC619E3BB9400F52E51 /* Seattle_2014_Endorsed_BudgetTests.m */; };
 		F9E1CDD219E3C02A00F52E51 /* JSONRequestHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = F9E1CDD119E3C02A00F52E51 /* JSONRequestHandler.m */; };
+		F9ED41E919E6492F0020D315 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 941C040099B344AEB3EE2E0C /* libPods.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +27,27 @@
 			proxyType = 1;
 			remoteGlobalIDString = F9E1CDA619E3BB9300F52E51;
 			remoteInfo = "Seattle 2014 Endorsed Budget";
+		};
+		F9ED41E319E648A80020D315 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F9ED41D719E648A80020D315 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 41C0CEF0840A48E9A70042EA;
+			remoteInfo = Pods;
+		};
+		F9ED41E519E648A80020D315 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F9ED41D719E648A80020D315 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 63A9C3FC720F4071B1E4B369;
+			remoteInfo = "Pods-MBProgressHUD";
+		};
+		F9ED41E719E648A80020D315 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F9ED41D719E648A80020D315 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 00C457ED61014F9890CF5BDF;
+			remoteInfo = "Pods-XYPieChart";
 		};
 /* End PBXContainerItemProxy section */
 
@@ -51,6 +72,34 @@
 		F9E1CDC619E3BB9400F52E51 /* Seattle_2014_Endorsed_BudgetTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Seattle_2014_Endorsed_BudgetTests.m; sourceTree = "<group>"; };
 		F9E1CDD019E3C02A00F52E51 /* JSONRequestHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSONRequestHandler.h; sourceTree = "<group>"; };
 		F9E1CDD119E3C02A00F52E51 /* JSONRequestHandler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSONRequestHandler.m; sourceTree = "<group>"; };
+		F9ED41BB19E648A80020D315 /* MBProgressHUD.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
+		F9ED41BD19E648A80020D315 /* XYPieChart.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XYPieChart.h; sourceTree = "<group>"; };
+		F9ED41C019E648A80020D315 /* MBProgressHUD.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
+		F9ED41C219E648A80020D315 /* XYPieChart.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XYPieChart.h; sourceTree = "<group>"; };
+		F9ED41C319E648A80020D315 /* Manifest.lock */ = {isa = PBXFileReference; lastKnownFileType = text; path = Manifest.lock; sourceTree = "<group>"; };
+		F9ED41C519E648A80020D315 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		F9ED41C619E648A80020D315 /* MBProgressHUD.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
+		F9ED41C719E648A80020D315 /* MBProgressHUD.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
+		F9ED41C819E648A80020D315 /* README.mdown */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.mdown; sourceTree = "<group>"; };
+		F9ED41C919E648A80020D315 /* Pods-acknowledgements.markdown */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Pods-acknowledgements.markdown"; sourceTree = "<group>"; };
+		F9ED41CA19E648A80020D315 /* Pods-acknowledgements.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Pods-acknowledgements.plist"; sourceTree = "<group>"; };
+		F9ED41CB19E648A80020D315 /* Pods-dummy.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Pods-dummy.m"; sourceTree = "<group>"; };
+		F9ED41CC19E648A80020D315 /* Pods-environment.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Pods-environment.h"; sourceTree = "<group>"; };
+		F9ED41CD19E648A80020D315 /* Pods-MBProgressHUD-dummy.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Pods-MBProgressHUD-dummy.m"; sourceTree = "<group>"; };
+		F9ED41CE19E648A80020D315 /* Pods-MBProgressHUD-prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Pods-MBProgressHUD-prefix.pch"; sourceTree = "<group>"; };
+		F9ED41CF19E648A80020D315 /* Pods-MBProgressHUD-Private.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Pods-MBProgressHUD-Private.xcconfig"; sourceTree = "<group>"; };
+		F9ED41D019E648A80020D315 /* Pods-MBProgressHUD.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Pods-MBProgressHUD.xcconfig"; sourceTree = "<group>"; };
+		F9ED41D119E648A80020D315 /* Pods-resources.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "Pods-resources.sh"; sourceTree = "<group>"; };
+		F9ED41D219E648A80020D315 /* Pods-XYPieChart-dummy.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Pods-XYPieChart-dummy.m"; sourceTree = "<group>"; };
+		F9ED41D319E648A80020D315 /* Pods-XYPieChart-prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Pods-XYPieChart-prefix.pch"; sourceTree = "<group>"; };
+		F9ED41D419E648A80020D315 /* Pods-XYPieChart-Private.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Pods-XYPieChart-Private.xcconfig"; sourceTree = "<group>"; };
+		F9ED41D519E648A80020D315 /* Pods-XYPieChart.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Pods-XYPieChart.xcconfig"; sourceTree = "<group>"; };
+		F9ED41D619E648A80020D315 /* Pods.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Pods.xcconfig; sourceTree = "<group>"; };
+		F9ED41D719E648A80020D315 /* Pods.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = Pods.xcodeproj; sourceTree = "<group>"; };
+		F9ED41DB19E648A80020D315 /* LICENSE.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		F9ED41DC19E648A80020D315 /* README.textile */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.textile; sourceTree = "<group>"; };
+		F9ED41DE19E648A80020D315 /* XYPieChart.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XYPieChart.h; sourceTree = "<group>"; };
+		F9ED41DF19E648A80020D315 /* XYPieChart.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XYPieChart.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +108,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F94BA58F19E4C7F200AC5F92 /* QuartzCore.framework in Frameworks */,
-				D86F12BF468F44388A9C7F5B /* libPods.a in Frameworks */,
+				F9ED41E919E6492F0020D315 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -76,6 +125,7 @@
 		1BA2C4A9D13D4133987DA9AE /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				F9ED41B819E648A80020D315 /* Pods */,
 				F94BA58E19E4C7F200AC5F92 /* QuartzCore.framework */,
 				941C040099B344AEB3EE2E0C /* libPods.a */,
 			);
@@ -147,6 +197,123 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		F9ED41B819E648A80020D315 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				F9ED41B919E648A80020D315 /* BuildHeaders */,
+				F9ED41BE19E648A80020D315 /* Headers */,
+				F9ED41C319E648A80020D315 /* Manifest.lock */,
+				F9ED41C419E648A80020D315 /* MBProgressHUD */,
+				F9ED41C919E648A80020D315 /* Pods-acknowledgements.markdown */,
+				F9ED41CA19E648A80020D315 /* Pods-acknowledgements.plist */,
+				F9ED41CB19E648A80020D315 /* Pods-dummy.m */,
+				F9ED41CC19E648A80020D315 /* Pods-environment.h */,
+				F9ED41CD19E648A80020D315 /* Pods-MBProgressHUD-dummy.m */,
+				F9ED41CE19E648A80020D315 /* Pods-MBProgressHUD-prefix.pch */,
+				F9ED41CF19E648A80020D315 /* Pods-MBProgressHUD-Private.xcconfig */,
+				F9ED41D019E648A80020D315 /* Pods-MBProgressHUD.xcconfig */,
+				F9ED41D119E648A80020D315 /* Pods-resources.sh */,
+				F9ED41D219E648A80020D315 /* Pods-XYPieChart-dummy.m */,
+				F9ED41D319E648A80020D315 /* Pods-XYPieChart-prefix.pch */,
+				F9ED41D419E648A80020D315 /* Pods-XYPieChart-Private.xcconfig */,
+				F9ED41D519E648A80020D315 /* Pods-XYPieChart.xcconfig */,
+				F9ED41D619E648A80020D315 /* Pods.xcconfig */,
+				F9ED41D719E648A80020D315 /* Pods.xcodeproj */,
+				F9ED41DA19E648A80020D315 /* XYPieChart */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		F9ED41B919E648A80020D315 /* BuildHeaders */ = {
+			isa = PBXGroup;
+			children = (
+				F9ED41BA19E648A80020D315 /* MBProgressHUD */,
+				F9ED41BC19E648A80020D315 /* XYPieChart */,
+			);
+			path = BuildHeaders;
+			sourceTree = "<group>";
+		};
+		F9ED41BA19E648A80020D315 /* MBProgressHUD */ = {
+			isa = PBXGroup;
+			children = (
+				F9ED41BB19E648A80020D315 /* MBProgressHUD.h */,
+			);
+			path = MBProgressHUD;
+			sourceTree = "<group>";
+		};
+		F9ED41BC19E648A80020D315 /* XYPieChart */ = {
+			isa = PBXGroup;
+			children = (
+				F9ED41BD19E648A80020D315 /* XYPieChart.h */,
+			);
+			path = XYPieChart;
+			sourceTree = "<group>";
+		};
+		F9ED41BE19E648A80020D315 /* Headers */ = {
+			isa = PBXGroup;
+			children = (
+				F9ED41BF19E648A80020D315 /* MBProgressHUD */,
+				F9ED41C119E648A80020D315 /* XYPieChart */,
+			);
+			path = Headers;
+			sourceTree = "<group>";
+		};
+		F9ED41BF19E648A80020D315 /* MBProgressHUD */ = {
+			isa = PBXGroup;
+			children = (
+				F9ED41C019E648A80020D315 /* MBProgressHUD.h */,
+			);
+			path = MBProgressHUD;
+			sourceTree = "<group>";
+		};
+		F9ED41C119E648A80020D315 /* XYPieChart */ = {
+			isa = PBXGroup;
+			children = (
+				F9ED41C219E648A80020D315 /* XYPieChart.h */,
+			);
+			path = XYPieChart;
+			sourceTree = "<group>";
+		};
+		F9ED41C419E648A80020D315 /* MBProgressHUD */ = {
+			isa = PBXGroup;
+			children = (
+				F9ED41C519E648A80020D315 /* LICENSE */,
+				F9ED41C619E648A80020D315 /* MBProgressHUD.h */,
+				F9ED41C719E648A80020D315 /* MBProgressHUD.m */,
+				F9ED41C819E648A80020D315 /* README.mdown */,
+			);
+			path = MBProgressHUD;
+			sourceTree = "<group>";
+		};
+		F9ED41D819E648A80020D315 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F9ED41E419E648A80020D315 /* libPods.a */,
+				F9ED41E619E648A80020D315 /* libPods-MBProgressHUD.a */,
+				F9ED41E819E648A80020D315 /* libPods-XYPieChart.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F9ED41DA19E648A80020D315 /* XYPieChart */ = {
+			isa = PBXGroup;
+			children = (
+				F9ED41DB19E648A80020D315 /* LICENSE.txt */,
+				F9ED41DC19E648A80020D315 /* README.textile */,
+				F9ED41DD19E648A80020D315 /* XYPieChart */,
+			);
+			path = XYPieChart;
+			sourceTree = "<group>";
+		};
+		F9ED41DD19E648A80020D315 /* XYPieChart */ = {
+			isa = PBXGroup;
+			children = (
+				F9ED41DE19E648A80020D315 /* XYPieChart.h */,
+				F9ED41DF19E648A80020D315 /* XYPieChart.m */,
+			);
+			path = XYPieChart;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -216,6 +383,12 @@
 			mainGroup = F9E1CD9E19E3BB9300F52E51;
 			productRefGroup = F9E1CDA819E3BB9300F52E51 /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = F9ED41D819E648A80020D315 /* Products */;
+					ProjectRef = F9ED41D719E648A80020D315 /* Pods.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				F9E1CDA619E3BB9300F52E51 /* Seattle 2014 Endorsed Budget */,
@@ -223,6 +396,30 @@
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		F9ED41E419E648A80020D315 /* libPods.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libPods.a;
+			remoteRef = F9ED41E319E648A80020D315 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		F9ED41E619E648A80020D315 /* libPods-MBProgressHUD.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libPods-MBProgressHUD.a";
+			remoteRef = F9ED41E519E648A80020D315 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		F9ED41E819E648A80020D315 /* libPods-XYPieChart.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libPods-XYPieChart.a";
+			remoteRef = F9ED41E719E648A80020D315 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		F9E1CDA519E3BB9300F52E51 /* Resources */ = {

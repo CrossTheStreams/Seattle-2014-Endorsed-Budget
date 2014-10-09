@@ -8,10 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
-@interface JSONRequestHandler : NSObject <NSURLConnectionDataDelegate, NSURLConnectionDelegate>
+@interface JSONRequestHandler : NSObject
 
-@property(strong, nonatomic) NSDictionary* json;
-
-- (void) getRequestForJSON;
+- (void) getRequestForJSONWithRequestDelegate: (id) delegate;
 
 @end

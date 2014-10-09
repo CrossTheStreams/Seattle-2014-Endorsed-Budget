@@ -22,14 +22,12 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     
-    JSONRequestHandler *jsonRequestHandler = [[JSONRequestHandler alloc] init];
-    [jsonRequestHandler getRequestForJSON];
-    
-    BudgetDataMapper *budgetDataMapper = [[BudgetDataMapper alloc] init];
-    [budgetDataMapper setData: jsonRequestHandler.json];
-    
     self.storyboard = [UIStoryboard storyboardWithName:@"Main" bundle: nil];
     ViewController *initView = [self.storyboard instantiateViewControllerWithIdentifier:@"ViewController"];
+    
+    JSONRequestHandler *jsonRequestHandler = [[JSONRequestHandler alloc] init];
+    [jsonRequestHandler getRequestForJSONWithRequestDelegate: initView];
+    
     UINavigationController *initNav = [[UINavigationController alloc] initWithRootViewController:initView];
     self.window.rootViewController = initNav;
     
