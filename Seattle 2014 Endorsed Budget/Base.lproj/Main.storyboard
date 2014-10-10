@@ -16,7 +16,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
-                            <view contentMode="scaleToFill" ambiguous="YES" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="DJi-yn-MtJ" customClass="XYPieChart">
+                            <view contentMode="scaleToFill" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="DJi-yn-MtJ" customClass="XYPieChart">
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                 <gestureRecognizers/>
                                 <variation key="heightClass=regular" misplaced="YES">
@@ -26,12 +26,41 @@
                                     <rect key="frame" x="100" y="73" width="600" height="600"/>
                                 </variation>
                             </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Tap the Pie to Explore" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6jl-El-BFg">
+                                <rect key="frame" x="279" y="496" width="42" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="23"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3IZ-Ng-Jny">
+                                <rect key="frame" x="279" y="543" width="42" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="40" id="9rm-IB-nVQ"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dbH-Cg-WUa">
+                                <rect key="frame" x="279" y="525" width="42" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="3IZ-Ng-Jny" secondAttribute="bottom" constant="10" id="Alk-hc-uB3"/>
+                            <constraint firstAttribute="width" secondItem="dbH-Cg-WUa" secondAttribute="width" id="C0a-7G-OUn"/>
+                            <constraint firstAttribute="width" secondItem="3IZ-Ng-Jny" secondAttribute="width" id="HlD-Wt-KKv"/>
                             <constraint firstAttribute="height" secondItem="DJi-yn-MtJ" secondAttribute="height" id="Hno-T8-QzO"/>
                             <constraint firstAttribute="width" secondItem="DJi-yn-MtJ" secondAttribute="width" id="T1p-8i-cUU"/>
+                            <constraint firstItem="6jl-El-BFg" firstAttribute="width" secondItem="h5l-rf-88v" secondAttribute="width" id="UTG-sw-QP8"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="6jl-El-BFg" secondAttribute="bottom" constant="83" id="UrK-8v-dJI"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="dbH-Cg-WUa" secondAttribute="bottom" constant="54" id="fPY-JP-rOA"/>
+                            <constraint firstAttribute="centerX" secondItem="6jl-El-BFg" secondAttribute="centerX" id="mo0-UF-DOf"/>
                             <constraint firstItem="DJi-yn-MtJ" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="20" id="rBF-8Y-4Ln"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="3IZ-Ng-Jny" secondAttribute="bottom" constant="36" id="sKr-Hc-ltc"/>
                             <constraint firstAttribute="centerX" secondItem="DJi-yn-MtJ" secondAttribute="centerX" id="v2F-gc-jE2"/>
                         </constraints>
                         <variation key="default">
@@ -52,6 +81,9 @@
                         </variation>
                     </view>
                     <connections>
+                        <outlet property="chartLabel" destination="6jl-El-BFg" id="O9f-F3-rIH"/>
+                        <outlet property="descriptionLabel" destination="3IZ-Ng-Jny" id="aUz-ZX-PGv"/>
+                        <outlet property="nameLabel" destination="dbH-Cg-WUa" id="EWv-U8-CKz"/>
                         <outlet property="pieChart" destination="DJi-yn-MtJ" id="a8N-NQ-Nvy"/>
                     </connections>
                 </viewController>

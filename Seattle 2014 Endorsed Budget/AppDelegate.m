@@ -23,12 +23,14 @@
     // Override point for customization after application launch.
     
     self.storyboard = [UIStoryboard storyboardWithName:@"Main" bundle: nil];
-    ViewController *initView = [self.storyboard instantiateViewControllerWithIdentifier:@"ViewController"];
+    ViewController *initViewController = [self.storyboard instantiateViewControllerWithIdentifier:@"ViewController"];
+    [initViewController setShowHUD:YES];
+    [initViewController setInitVC:YES];
     
     JSONRequestHandler *jsonRequestHandler = [[JSONRequestHandler alloc] init];
-    [jsonRequestHandler getRequestForJSONWithRequestDelegate: initView];
+    [jsonRequestHandler getRequestForJSONWithRequestDelegate: initViewController];
     
-    UINavigationController *initNav = [[UINavigationController alloc] initWithRootViewController:initView];
+    UINavigationController *initNav = [[UINavigationController alloc] initWithRootViewController:initViewController];
     self.window.rootViewController = initNav;
     
     return YES;

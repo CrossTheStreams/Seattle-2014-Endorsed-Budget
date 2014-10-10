@@ -11,6 +11,7 @@
 @interface BudgetDataMapper : NSObject
 
 -(void) mapDataByDepartment;
+-(void) mapDataByNameForDepartment:(NSString*) department;
 
 @property (strong, nonatomic) NSArray *jsonData;
 // An array of NSDictionaries that represent "slices" in the piechart

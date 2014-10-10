@@ -8,11 +8,10 @@
 
 #import "ViewController.h"
 #import <QuartzCore/QuartzCore.h>
-
+#import "AppDelegate.h"
 
 @interface ViewController ()
 
-@property (strong, nonatomic) IBOutlet XYPieChart *pieChart;
 
 
 @end
@@ -24,8 +23,16 @@
 
 - (void) viewDidLoad {
     [super viewDidLoad];
-    [MBProgressHUD showHUDAddedTo:self.view animated:YES];
+    if ([self shouldShowHUD]) {
+        [MBProgressHUD showHUDAddedTo:self.view animated:YES];
+    }
     self.title = @"Seattle 2014 Endorsed Budget";
+}
+
+-(void) viewDidAppear:(BOOL)animated {
+    if ([self isInitVC]) {
+      [[self budgetDataMapper] mapDataByDepartment];
+    }
 }
 
 
@@ -58,6 +65,7 @@
         NSNumber *value = [NSNumber numberWithInt:([pieSlice[@"value"] intValue] * 0.01)];
 //        NSLog([value stringValue]);
         [self.slices addObject: value];
+        NSLog([value stringValue]);
         [mutableColorArray addObject: colorArray[i % [colorArray count]]];
         self.sliceColors = [NSArray arrayWithArray: mutableColorArray];
     }
@@ -72,8 +80,8 @@
     [self.pieChart setLabelFont:[UIFont fontWithName:@"Helvetica" size:24]];	//optional
     [self.pieChart setLabelColor:[UIColor blackColor]];	//optional, defaults to white
     //    [self.pieChart setLabelShadowColor:[UIColor blackColor]];	//optional, defaults to none (nil)
-    CGFloat radius = (self.view.frame.size.width/2 - 20);
-    [self.pieChart setLabelRadius:(radius/1.6)];	//optional
+    CGFloat radius = (self.view.frame.size.width/1.95 - 20);
+    //[self.pieChart setLabelRadius:(radius/1.6)];	//optional
     [self.pieChart setPieRadius: radius];
     [self.pieChart setShowPercentage:YES];	//optional
     [self.pieChart setPieBackgroundColor:[UIColor colorWithWhite:0.95 alpha:1]];	//optional
@@ -85,7 +93,7 @@
 }
 
 -(NSArray*) pieChartData {
-    return [[self burdgetDataMapper] pieChartData];
+    return [[self budgetDataMapper] pieChartData];
 }
 
 // XYPiechart delegate methods
@@ -119,7 +127,39 @@
 }
 - (void)pieChart:(XYPieChart *)pieChart didSelectSliceAtIndex:(NSUInteger)index
 {
-    NSLog(@"did select slice at index %d",index);
+    
+    if ([self isInitVC]) {
+        double delayInSecondsForAnimation = 0.50;
+        dispatch_time_t popTimeForAnimation = dispatch_time(DISPATCH_TIME_NOW, (int64_t)(delayInSecondsForAnimation * NSEC_PER_SEC));
+        dispatch_after(popTimeForAnimation, dispatch_get_main_queue(), ^(void) {
+            ViewController *newPieVC = [self.storyboard instantiateViewControllerWithIdentifier:@"ViewController"];
+            [self.navigationController pushViewController:newPieVC animated:YES];
+            [MBProgressHUD showHUDAddedTo:newPieVC.view animated:YES];
+ 
+            NSDictionary *slice = [self pieChartData][index];
+            NSString *department = slice[@"label"];
+            [[newPieVC chartLabel] setText: department];
+            [self setSelectedDepartment: department];
+            [[self budgetDataMapper] mapDataByNameForDepartment:department];
+            [MBProgressHUD showHUDAddedTo:self.view animated:YES];
+            [self hideHUDWithDelay];
+            double delayInSecondsForPieChart = 1.5;
+            dispatch_time_t popTimeForPieChart = dispatch_time(DISPATCH_TIME_NOW, (int64_t)(delayInSecondsForPieChart * NSEC_PER_SEC));
+            dispatch_after(popTimeForPieChart, dispatch_get_main_queue(), ^(void){
+                [newPieVC setBudgetDataMapper:self.budgetDataMapper];
+                [newPieVC createPieChart];
+            });
+        });
+    } else {
+        NSDictionary *slice = [self pieChartData][index];
+        if (slice[@"description"]) {
+            [[self descriptionLabel] setText:slice[@"description"]];
+        }
+        if (slice[@"label"]) {
+            [[self nameLabel] setText:slice[@"label"]];
+        }
+    }
+// NSLog(@"did select slice at index %d",index);
 //    self.selectedSliceLabel.text = [NSString stringWithFormat:@"$%@",[self.slices objectAtIndex:index]];
 }
 
@@ -159,7 +199,7 @@
     [budgetDataMapper setJsonData: requestJSON];
     [budgetDataMapper mapDataByDepartment];
     
-    [self setBurdgetDataMapper: budgetDataMapper];
+    [self setBudgetDataMapper: budgetDataMapper];
     
     [self hideHUDWithDelay];
     [self loadPieChartWithDelay];

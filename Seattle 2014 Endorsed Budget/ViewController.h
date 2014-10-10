@@ -13,11 +13,16 @@
 
 @interface ViewController : UIViewController <XYPieChartDelegate, XYPieChartDataSource, NSURLConnectionDataDelegate, NSURLConnectionDelegate>
 
+@property (strong, nonatomic) IBOutlet XYPieChart *pieChart;
+@property (weak, nonatomic) IBOutlet UILabel *chartLabel;
+@property (weak, nonatomic) IBOutlet UILabel *descriptionLabel;
+@property (weak, nonatomic) IBOutlet UILabel *nameLabel;
 @property NSMutableArray *slices;
 @property NSArray *sliceColors;
 @property NSDictionary *json;
-@property BudgetDataMapper *burdgetDataMapper;
-
-
+@property BudgetDataMapper *budgetDataMapper;
+@property (nonatomic, assign, getter=shouldShowHUD) BOOL showHUD;
+@property (nonatomic, assign, getter=isInitVC) BOOL initVC;
+@property (nonatomic, strong) NSString *selectedDepartment;
 @end
 

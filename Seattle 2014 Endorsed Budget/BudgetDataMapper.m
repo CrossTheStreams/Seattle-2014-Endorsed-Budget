@@ -10,14 +10,7 @@
 
 @implementation BudgetDataMapper
 
-//{
-//    "bcl_code" : "I4100",
-//    "bcl_purpose" : "The purpose of the Youth Violence Prevention Budget Control Level is to reduce juvenile violent crimes.",
-//    "department" : "Department of Neighborhoods",
-//    "_2014_expenditure_allowance" : "5631045",
-//    "fund" : "General Subfund",
-//    "bcl_name" : "Youth Violence Prevention"
-//}
+
 
 -(void) mapDataByDepartment {
     NSMutableArray *mappedData = [[NSMutableArray alloc] init];
@@ -43,16 +36,60 @@
         if ((departmentDictionary[@"value"]) != 0) {
             currentAllowance = [departmentDictionary[@"value"] intValue];
         }
-        
-//        if ([department isEqualToString:@"Cumulative Reserve Subfund"]) {
-//            
-//        }
+
         
         NSNumber *newAllowance = [NSNumber numberWithInt: (currentAllowance + itemAllowance)];
         [departmentDictionary setValue: newAllowance forKey:@"value"];
     }
     [self setPieChartData: [NSArray arrayWithArray: mappedData] ];
     
+}
+
+//{
+//    "bcl_code" : "I4100",
+//    "bcl_purpose" : "The purpose of the Youth Violence Prevention Budget Control Level is to reduce juvenile violent crimes.",
+//    "department" : "Department of Neighborhoods",
+//    "_2014_expenditure_allowance" : "5631045",
+//    "fund" : "General Subfund",
+//    "bcl_name" : "Youth Violence Prevention"
+//}
+
+-(void) mapDataByNameForDepartment:(NSString*) department {
+    NSMutableArray *mappedData = [[NSMutableArray alloc] init];
+    NSMutableDictionary *byName = [[NSMutableDictionary alloc] init];
+    
+    for (NSDictionary *budgetItem in self.jsonData) {
+        if ([budgetItem[@"department"] isEqualToString:department]) {
+            NSString *name = budgetItem[@"bcl_name"];
+        
+            NSMutableDictionary *nameDictionary = byName[name];
+            
+            if (!nameDictionary) {
+                nameDictionary = [[NSMutableDictionary alloc] init];
+                byName[name] = nameDictionary;
+                nameDictionary[@"label"] = name;
+                [mappedData addObject:nameDictionary];
+            }
+            
+            NSString *descriptionString = budgetItem[@"bcl_purpose"];
+            nameDictionary[@"description"] = descriptionString;
+            
+            NSString *allowanceString = budgetItem[@"_2014_expenditure_allowance"];
+            
+            int itemAllowance = [allowanceString intValue];
+            
+            int currentAllowance = 0;
+            
+            if ((nameDictionary[@"value"]) != 0) {
+                currentAllowance = [nameDictionary[@"value"] intValue];
+            }
+            
+            NSNumber *newAllowance = [NSNumber numberWithInt: (currentAllowance + itemAllowance)];
+            [nameDictionary setValue: newAllowance forKey:@"value"];
+        }
+    }
+    
+    [self setPieChartData: [NSArray arrayWithArray: mappedData] ];
 }
 
 @end
