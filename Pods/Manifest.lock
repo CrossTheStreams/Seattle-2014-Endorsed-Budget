@@ -1,0 +1,13 @@
+PODS:
+  - MBProgressHUD (0.9)
+  - XYPieChart (0.2)
+
+DEPENDENCIES:
+  - MBProgressHUD (~> 0.8)
+  - XYPieChart (~> 0.2)
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 2038dbcf3dce73215abed6001657043d53aa79a8
+  XYPieChart: 94f89331038feb5b4e6372ba07c7a89e74899d32
+
+COCOAPODS: 0.32.1
